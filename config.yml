@@ -1,0 +1,29 @@
+baseURL: https://github.com/Ryuuzzor/Ryuuzzor.net.git
+languageCode: zh-cn
+title: Miracle's Happenning
+theme: PaperMod
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+    homeInfoParams:
+        Title: Welcome to My Personal Site
+        Content: 经验与想象并存
+
+enableInlineShortcodes: true
+enableEmoji: true # 允许使用 Emoji 表情，建议 true
+enableRobotsTXT: true # 允许爬虫抓取到搜索引擎，建议 true
+
+hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+#googleAnalytics: UA-123-45 # 谷歌统计
+# Copyright: Sulv
+
+paginate: 15
+
