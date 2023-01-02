@@ -1,16 +1,56 @@
 baseURL: https://github.com/Ryuuzzor/Ryuuzzor.net.git
 languageCode: zh-cn
 title: Miracle's Happenning
-theme: PaperMod
+theme: hugo-PaperMod
+
+params:
+  homeInfoParams:
+    Title: Welcome to My Personal Site
+    Content: 经验与想象并行
+  socialIcons:
+    - name: twitter
+      url: https://twitter.com/RODE07081933
+    - name: instagram
+      url: https://www.instagram.com/ryoshiiyuuz/
+    - name: email
+      url: rongzhouzheng7@gmail.com
+
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+  
+  ShowPostNavLinks: true
+
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archive
+      name: Archive
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
 markup:
   goldmark:
     renderer:
       unsafe: true
 
-params:
-    homeInfoParams:
-        Title: Welcome to My Personal Site
-        Content: 经验与想象并存
+
 
 enableInlineShortcodes: true
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
