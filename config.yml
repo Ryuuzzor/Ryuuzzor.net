@@ -14,6 +14,8 @@ params:
       url: https://www.instagram.com/ryoshiiyuuz/
     - name: email
       url: rongzhouzheng7@gmail.com
+    - name: rss
+      url: https://stalwart-semifreddo-41b5da.netlify.app/index.xml
 
 
   cover:
