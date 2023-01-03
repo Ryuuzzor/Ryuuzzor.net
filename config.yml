@@ -1,12 +1,12 @@
 baseURL: https://stalwart-semifreddo-41b5da.netlify.app
 languageCode: zh-cn
-title: Miracle's Happenning
+title: Never Never
 theme: hugo-PaperMod
 
 params:
   homeInfoParams:
-    Title: Welcome to My Personal Site
-    Content: 经验与想象并行
+    Title: Welcome to My Personal Website
+    Content: 经验和想象
   socialIcons:
     - name: twitter
       url: https://twitter.com/RODE07081933
