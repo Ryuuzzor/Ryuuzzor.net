@@ -69,11 +69,16 @@
     font-size: 12px;
 }
 
-.post-content a,
-.toc a:hover {
+.post-content a {
     text-decoration: none;
     color: #061e34;
     border-bottom: 1.5px dashed #ffd600;
+}
+
+.toc a:hover {
+    color: #925328;
+    border-bottom: 1.5px solid #ffd600;
+    cursor: pointer;
 }
 
 .post-content a code {
@@ -318,7 +323,7 @@
     display: block;
     padding-inline-start: 14px;
     padding-inline-end: 14px;
-    color: #925328;
+    color: rgb(108, 108, 108);
     font-size: 14px;
     line-height: 34px;
     background: #f5d67b;
