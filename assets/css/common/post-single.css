@@ -217,7 +217,7 @@
     font-style: bold;
     margin: 0 0 35px 0px;
     padding-left: 20px;
-    background: linear-gradient(to right, #FFFAF4);
+    background: linear-gradient(to right, #FFFAF4, #FFFFFF);
 }
 
 .post-content hr {
