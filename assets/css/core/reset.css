@@ -26,7 +26,8 @@ body {
     font-size: 18px;
     line-height: 1.6;
     word-break: break-word;
-    background: rgb(255, 214, 0);
+    background: rgb(255, 255, 255);
+    background-color: rgb(255, 214, 0);
 }
 
 article,
