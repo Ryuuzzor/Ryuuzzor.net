@@ -215,7 +215,7 @@
     border-left: 6px solid #ffd600;
     color: #707070;
     font-style: bold;
-    margin: 0 0 35px 5px;
+    margin: 0 0 35px 0px;
     padding-left: 20px;
     background: linear-gradient(to right, #FFFAF4, #FFFFFF);
 }
@@ -315,13 +315,9 @@
 }
 
 .post-tags a {
-    display: block;
-    padding-inline-start: 14px;
-    padding-inline-end: 14px;
-    color: var(--secondary);
-    font-size: 14px;
-    line-height: 34px;
-    background: var(--code-bg);
+    text-decoration: none;
+    color: #061e34;
+    border-bottom: 1.5px dashed #ffd600;
 }
 
 .post-tags a:hover,
