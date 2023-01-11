@@ -1,0 +1,614 @@
+@charset "utf-8";
+/* Untag Style */
+/* by YARINZ */
+/* WebSite: https://utgd.net */
+/* Github : https://github.com/UntagTeam/Untag-CSS-Style */
+/* Version : Untag-Style CSS v1.0.6 (2022-12-28) */
+
+/* ===== 全局样式 ===== */
+
+/* 全局字体颜色 */
+.markdown-body {
+    color: #061e34;
+}
+
+/* 全局字体与字间距 */
+.markdown-body {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-size: 16px;
+    font-weight: 500;
+    /* 略宽的文字间距 */
+    letter-spacing: 0.03em;
+}
+
+/* 全局字体（思源宋体版本） */
+.markdown-body {
+    font-family: 'Noto Serif SC', 'Source Han Serif SC', serif;
+}
+
+/* 全局字体（黑体版本） */
+/* .markdown-body {
+    font-family: -apple-system, BlinkMacSystemFont, "Trebuchet MS", Helvetica, sans-serif;
+} */
+
+/* 代码块字体（等宽版本） */
+.markdown-body code,
+.markdown-body p>code,
+.markdown-body li>code,
+.markdown-body pre,
+.markdown-body pre[rel]:not([rel=""]):before {
+    font-family: -apple-system, BlinkMacSystemFont, Menlo, Monaco, Consolas, Courier New, monospace;
+}
+
+/* ===== 正文样式 ===== */
+
+/* 正文 */
+.markdown-body p {
+    line-height: 2em;
+}
+
+/* 引用内容 */
+.markdown-body blockquote>p {
+    text-indent: 0em;
+}
+
+/* 标题  */
+.markdown-body h1 {
+    font-size: 2.2em;
+}
+
+.markdown-body h2 {
+    font-size: 1.5em;
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+    line-height: 2em;
+}
+
+.markdown-body h3 {
+    font-size: 1.25em;
+    margin-top: 1.25em;
+    margin-bottom: 0.625em;
+    line-height: 2em;
+}
+
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+    font-size: 1.125em;
+    margin: 1em 0;
+}
+
+/* 链接 */
+.markdown-body a {
+    text-decoration: none;
+    color: #061e34;
+    border-bottom: 1.5px dashed #ffd600;
+}
+
+/* 链接悬浮时变色方案 */
+.markdown-body a:hover {
+    color: #925328;
+    border-bottom: 1.5px solid #ffd600;
+    cursor: pointer;
+}
+
+/* 列表 */
+.markdown-body li {
+    line-height: 2em;
+}
+
+.markdown-body li>p {
+    text-indent: 0em;
+    line-height: 2em;
+    margin: 0;
+}
+
+/* 块级引用 */
+
+.markdown-body blockquote {
+    border-left: 6px solid #ffd600;
+    color: #707070;
+    font-style: bold;
+    margin: 0 0 35px -0px;
+    padding-left: 20px;
+    background: linear-gradient(to right, #FFFAF4, #FFFFFF);
+}
+
+/* 代码块 */
+.markdown-body code {
+    /* 继承文字大小 */
+    font-size: inherit;
+}
+
+/* 行内代码 */
+.markdown-body p>code,
+.markdown-body li>code {
+    color: #061E34;
+    background-color: #fff7e3;
+    font-size: .8em;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+/* 代码块 */
+.markdown-body pre {
+    margin: 0 0 1.5rem;
+
+}
+
+.markdown-body pre {
+    clear: both;
+    color: #f5d67b;
+    background: #1b1b1b;
+    padding: 0;
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+    -ms-word-break: normal;
+    word-break: normal;
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+    position: relative;
+    line-height: 28px;
+    border-radius: 8px;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    max-width: 100%;
+    /* 代码块与页面等宽 */
+    width: 100%;
+    /* 不显示超出的内容 */
+    overflow: hidden
+}
+
+.markdown-body pre[rel]:not([rel=""]):before {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 0.8em;
+    content: attr(rel);
+    color: #fff;
+    position: absolute;
+    top: -.2rem;
+    right: .4rem;
+    padding: 0;
+    color: #ff7a18 !important
+}
+
+.markdown-body pre code {
+    scrollbar-color: #666 #201c29;
+    background: 0 0;
+    white-space: pre;
+    -webkit-overflow-scrolling: touch;
+    overflow-x: scroll;
+    display: block;
+    max-width: 100%;
+    min-width: 100px;
+    padding: 15px 20px 12px 22px;
+    line-height: 1.75;
+    font-size: 0.8em;
+}
+
+.markdown-body pre code::-webkit-scrollbar {
+    width: .5em;
+    height: .5em
+}
+
+.markdown-body pre code::-webkit-scrollbar-thumb {
+    background: #666;
+    border-radius: .5em;
+    box-shadow: inset 2px 2px 2px hsla(0, 0%, 100%, .25), inset -2px -2px 2px rgba(0, 0, 0, .25)
+}
+
+.markdown-body pre code::-webkit-scrollbar-track {
+    background: linear-gradient(90deg, #434343, #434343 1px, none 0, none)
+}
+
+@media(max-width:800px) {
+    .markdown-body pre code {
+
+        padding: 15px 20px 10px 14px
+    }
+}
+
+
+
+/* ===== 图片 ===== */
+
+/* 图片 */
+
+.markdown-body img {
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    text-align: center;
+    border-style: none;
+    box-sizing: content-box;
+}
+
+/* 图片描述 */
+
+.markdown-body figure {
+    margin: 0.5em 0;
+    text-align: center;
+}
+
+.markdown-body figcaption {
+    margin: 0.5em 0;
+    text-align: center;
+    color: #707070;
+}
+
+/* ===== 分割线 ===== */
+
+/* 常规分割线 */
+/* 你也许更喜欢原生的分割线 */
+
+/* .markdown-body hr {
+	background-color: #ccc;
+	border: 0;
+	height: 1px;
+	margin-bottom: 1.5em;
+} */
+
+/* Untag 美化分割线 */
+
+.markdown-body hr {
+    overflow: visible;
+    padding: 1em;
+    border: none;
+    border-top: medium none #333;
+    color: #333;
+    text-align: center;
+}
+
+.markdown-body hr:after {
+    content: "✣ ✣ ✣";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.2em;
+    padding: 0 0.25em;
+    color: gray;
+    background: white;
+}
+
+
+/* ===== Untag Meta 内容 ===== */
+
+/* Article Top Style */
+
+.ut_article_top_line {
+    box-sizing: border-box;
+    height: 1px;
+    width: 100%;
+    background: black;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: none;
+}
+
+/* 文章副标题 */
+
+.ut_article_top_subhead {
+    margin-top: 24px;
+    text-decoration: none;
+    padding-bottom: 1px;
+    color: #000000;
+    font-weight: 900;
+    font-size: 1.5em;
+    letter-spacing: 0px;
+    line-height: 23px;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    border-bottom: 3px solid #ffd600;
+    display: inline-block;
+}
+
+
+/* 文章大标题 */
+
+.ut_article_top_head {
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 64px;
+    letter-spacing: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+/* 文章描述 */
+
+.ut_article_top_description {
+    color: #000000;
+    font-size: 16px;
+    margin-bottom: 10px;
+    line-height: 1.8em;
+    color: gray;
+}
+
+/* 作者头像 */
+
+.ut_article_top_post_avatar img {
+    display: block;
+    box-sizing: border-box;
+    width: 48px;
+    min-width: 48px;
+    height: 48px;
+    border: solid 2px #f8f8f0;
+    border-radius: 50%;
+}
+
+/* 文章作者 */
+
+.ut_article_top_byline {
+    color: black;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 2em;
+    margin-bottom: 1.2em;
+
+}
+
+/* 文章作者 - i */
+
+.ut_article_top_byline i {
+    margin-left: -3px;
+    margin-right: -3px;
+}
+
+
+/* 文章作者 - 加粗 */
+
+.ut_article_top_bylinebold {
+    text-align: center;
+}
+
+
+/* 文章日期 */
+
+.ut_article_top_dateline {
+    color: #757575;
+    margin-top: 4px;
+    display: inline-block;
+    font-size: 0.8em;
+    line-height: 2em;
+    margin-left: 0px;
+}
+
+
+/* 文章作者与日期分割线 */
+
+.ut_article_top_chim {
+    font-size: 16px;
+    line-height: 16px;
+    display: inline-block;
+    margin-left: 7px;
+    margin-right: 3px;
+}
+
+
+/* 文章题图 div */
+
+.ut_article_top_articlehero {
+    width: 100%;
+    margin-top: 18px;
+    margin-bottom: 0px;
+    display: flex;
+    flex-flow: column;
+}
+
+
+/* 文章题图图片 img */
+
+.ut_article_top_articlehero img {
+    width: 100%;
+}
+
+/* 付费阅读渐变色 */
+
+.markdown-body .hide {
+    display: none;
+}
+
+.markdown-body .more {
+    position: relative;
+    text-align: center;
+    font-size: 1.1em;
+    height: 2em;
+    line-height: 2em;
+    display: block;
+}
+
+.markdown-body .more:before {
+    position: absolute;
+    border-bottom: 1px dashed #ddd;
+    bottom: 2em;
+    left: 0;
+    content: '';
+    width: 100%;
+    height: 6em;
+    z-index: 2;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, .01), #fff);
+}
+
+/* 文内按钮 */
+
+.ut_button {
+    background-color: #dce7ef;
+    color: #4e81ae;
+    border: 2px solid #4e81ae;
+    padding: 2px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.ut_button:hover {
+    background-color: #E6F0F5 !important;
+    transition: 0.5s;
+}
+.ut_button:active {
+    background-color: #A0B8CD !important;
+    transition: 0.1s;
+}
+.ut_button_a{
+    color: #4e81ae !important;
+    /* 按钮中使用无衬线字体 */
+    font-family: 'Source Han Sans',sans-serif !important;
+    border-bottom: 0px !important;
+}
+
+
+/* ===== 阅读模式 ===== */
+/* Modified based on Apple Safari reading mode Style */
+
+.markdown-body #article {
+    text-rendering: optimizeLegibility;
+}
+
+.markdown-body #article pre {
+    white-space: pre-wrap;
+}
+
+.markdown-body #article * {
+    /* Scale down anything larger than our view. Max-width maintains aspect ratios on images. */
+    max-width: 100%;
+}
+
+.markdown-body #article img {
+    /* By default, images are centered on their own line. */
+    margin: 0.5em auto;
+    display: block;
+    height: auto;
+}
+
+.markdown-body #article img.reader-image-tiny {
+    display: inline;
+    margin: 0;
+}
+
+.markdown-body #article .leading-image,
+figure,
+.auxiliary {
+    margin-bottom: .25em;
+}
+
+.markdown-body #article .leading-image img {
+    margin: auto;
+    display: block;
+    clear: both;
+}
+
+.markdown-body #article .leading-image .credit {
+    margin: 0;
+    text-align: right;
+}
+
+.markdown-body #article .leading-image .caption,
+.markdown-body #article .leading-image .credit,
+.markdown-body #article figcaption,
+.markdown-body #article .auxiliary figcaption {
+    text-align: center;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    margin-top: 1em;
+    width: 100%;
+    color: gray;
+}
+
+.markdown-body #article .leading-image .credit+.caption {
+    margin-top: 0.1em;
+}
+
+.markdown-body #article .auxiliary {
+    display: block;
+    clear: both;
+    font-size: 0.75em;
+    line-height: 1.4em;
+    text-align: start;
+}
+
+.markdown-body #article .auxiliary>* {
+    -webkit-margin-start: 0;
+}
+
+.markdown-body #article .auxiliary img,
+.markdown-body #article .auxiliary>*:first-child {
+    margin: 0;
+}
+
+/* If the element immediately after an image is inline, it might bump up against the image. */
+
+.markdown-body #article .auxiliary img+* {
+    display: block;
+}
+
+.markdown-body #article .auxiliary figcaption {
+    font-size: 100%;
+}
+
+.markdown-body #article .auxiliary * {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.markdown-body #article .float.left {
+    float: left;
+    margin-right: 20px;
+}
+
+.markdown-body #article .float.right {
+    float: right;
+    margin-left: 20px;
+}
+
+.markdown-body #article .clear {
+    clear: both;
+}
+
+.markdown-body #article ul.list-style-type-none,
+.markdown-body #article ol.list-style-type-none,
+.markdown-body #article .list-style-type-none>li {
+    list-style-type: none;
+    -webkit-padding-start: 0;
+}
+
+/* Collapse excess whitespace. */
+
+.page p>p:empty,
+.page div>p:empty,
+.page p>div:empty,
+.page div>div:empty,
+.page p+br,
+.page p>br:only-child,
+.page div>br:only-child,
+.page img+br {
+    display: none;
+}
+
+.page:first-of-type .title {
+    display: block;
+}
+
+.page table {
+    font-size: 0.9em;
+    text-align: start;
+    word-wrap: break-word;
+    border-collapse: collapse;
+}
+
+.page table td,
+.page table th {
+    padding: 0.25em 0.5em;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.page table th {
+    background-color: rgba(0, 0, 0, 0.025);
+}
