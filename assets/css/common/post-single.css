@@ -217,13 +217,13 @@
 }
 
 ::-moz-selection {
-	color: none;
-    background: #ffd600;
+	background: #fdfca3;
+	color: #1f1f1f;
 }
 
-p::selection {
-    color: none;
-    background-color: #ffd600;
+::selection {
+	background: #fdfca3;
+	color: #1f1f1f;
 }
 
 .post-content blockquote {
