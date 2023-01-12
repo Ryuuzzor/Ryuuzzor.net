@@ -69,16 +69,11 @@
     font-size: 12px;
 }
 
-.post-content a {
-    text-decoration: none;
-    color: #061e34;
-    border-bottom: 1.5px dashed #ffd600;
-}
-
+.post-content a,
 .toc a:hover {
-    color: #925328;
-    border-bottom: 1.5px solid #ffd600;
-    cursor: pointer;
+    box-shadow: 0 1px 0;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
 }
 
 .post-content a code {
@@ -232,7 +227,6 @@
     font-style: bold;
     margin: 0 0 35px 0px;
     padding-left: 20px;
-    background: linear-gradient(to right, #FFFAF4, #FFFFFF);
 }
 
 .post-content hr {
