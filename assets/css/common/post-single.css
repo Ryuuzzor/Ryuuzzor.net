@@ -176,29 +176,8 @@
 }
 
 .post-content .highlight pre {
-    clear: both;
+    margin: 0;
     color: #f5d67b;
-    background: #1b1b1b;
-    padding: 0;
-    -moz-tab-size: 2;
-    -o-tab-size: 2;
-    tab-size: 2;
-    -ms-word-break: normal;
-    word-break: normal;
-    -webkit-hyphens: none;
-    -ms-hyphens: none;
-    hyphens: none;
-    position: relative;
-    line-height: 28px;
-    border-radius: 8px;
-    width: -webkit-max-content;
-    width: -moz-max-content;
-    width: max-content;
-    max-width: 100%;
-    /* 代码块与页面等宽 */
-    width: 100%;
-    /* 不显示超出的内容 */
-    overflow: hidden
 }
 
 .post-content .highlighttable {
