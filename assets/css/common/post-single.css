@@ -353,13 +353,25 @@
     display: block;
     padding-inline-start: 14px;
     padding-inline-end: 14px;
-    color: rgb(108, 108, 108);
     font-size: 14px;
     line-height: 34px;
-    background: #f5d67b;
+    background-color: #dce7ef;
+    color: #4e81ae;
+    font-family: 'Source Han Sans',sans-serif !important;
+    border: 2px solid #4e81ae;
+    border-bottom: 0px !important;
 }
 
-.post-tags a:hover,
+.post-tags a:hover {
+    background-color: #E6F0F5 !important;
+    transition: 0.5s;
+}
+
+.post-tags :active {
+    background-color: #A0B8CD !important;
+    transition: 0.1s;
+}
+
 .paginav a:hover {
     background: var(--border);
 }
