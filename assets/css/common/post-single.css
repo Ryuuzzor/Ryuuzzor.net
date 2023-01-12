@@ -228,11 +228,11 @@
 
 .post-content blockquote {
     border-left: 6px solid #ffd600;
-    color: #707070;
-    font-style: bold;
+    color: var(--quotecolor);
+    font-style: bold; 
     margin: 0 0 35px 0px;
     padding-left: 20px;
-    background: linear-gradient(to right, #FFFAF4, #FFFFFF);
+    background: var(--quotebackground)
 }
 
 .post-content hr {
