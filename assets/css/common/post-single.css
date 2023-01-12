@@ -216,6 +216,11 @@
     word-break: break-all;
 }
 
+::-moz-selection {
+	color: none;
+    background: #ffd600;
+}
+
 p::selection {
     color: none;
     background-color: #ffd600;
