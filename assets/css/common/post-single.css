@@ -227,6 +227,7 @@
     font-style: bold;
     margin: 0 0 35px 0px;
     padding-top: 10px;
+    padding-bottom: 1ch;
     padding-left: 20px;
     background: linear-gradient(to right, #FFFAF4, #FFFFFF);
 }
@@ -237,7 +238,6 @@
     border: none;
     border-top: medium none #333;
     color: #333;
-    text-align: center;
 }
 
 .post-content hr:after {
