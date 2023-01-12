@@ -231,14 +231,13 @@
     color: #707070;
     font-style: bold;
     margin: 0 0 35px 0px;
-    padding-top: 5px;
     padding-left: 20px;
     background: linear-gradient(to right, #FFFAF4, #FFFFFF);
 }
 
 .post-content hr {
     overflow: visible;
-    padding: 1em;
+    padding: 00.25em;
     border: none;
     border-top: medium none #333;
     color: #333;
