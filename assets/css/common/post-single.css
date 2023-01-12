@@ -177,7 +177,6 @@
 
 .post-content .highlight pre {
     margin: 0;
-    color: #f5d67b;
 }
 
 .post-content .highlighttable {
@@ -215,6 +214,11 @@
     border-radius: var(--radius);
     overflow-x: auto;
     word-break: break-all;
+}
+
+p::selection {
+    color: none;
+    background-color: #ffd600;
 }
 
 .post-content blockquote {
