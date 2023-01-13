@@ -1,6 +1,6 @@
 baseURL: https://stalwart-semifreddo-41b5da.netlify.app
 languageCode: zh-cn
-title: about:blank
+title: 有上篇没下篇
 theme: hugo-PaperMod
 
 params:
