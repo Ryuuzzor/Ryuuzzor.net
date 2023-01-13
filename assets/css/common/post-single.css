@@ -81,6 +81,13 @@
     cursor: pointer;
 }
 
+.toc a:hover {
+    color: var(--linkhovercolor);
+    border-bottom: 1.5px solid #ffd600;
+    transition: margin-right 0.5s;
+    cursor: pointer;
+}
+
 .post-content a code {
     margin: auto 0;
     border-radius: 0;
