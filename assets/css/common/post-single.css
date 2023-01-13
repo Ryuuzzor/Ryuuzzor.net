@@ -69,13 +69,20 @@
     font-size: 12px;
 }
 
-.post-content a{
+.post-content a,
+.toc a:hover {
+    box-shadow: 0 1px 0;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+
+a{
     text-decoration: none;
     color: #061e34;
     border-bottom: 1.5px dashed #ffd600;
 }
 
-.toc a:hover {
+a:hover {
     color: #925328;
     border-bottom: 1.5px solid #ffd600;
     cursor: pointer;
