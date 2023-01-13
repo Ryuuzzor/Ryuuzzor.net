@@ -227,7 +227,7 @@ a:hover {
 }
 
 .post-content blockquote {
-    border-left: 6px solid #ffd600;
+    border-left: 6px solid var(--quoteborder-left);
     color: var(--quotecolor);
     font-style: bold; 
     margin: 0 0 35px 0px;

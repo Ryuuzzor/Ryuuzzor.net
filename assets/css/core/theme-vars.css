@@ -15,6 +15,7 @@
     --hljs-bg: rgb(28, 29, 33);
     --code-bg: rgb(245, 245, 245);
     --border: rgb(238, 238, 238);
+    --quoteborder-left: #ffd600;
     --quotebackground: linear-gradient(to right, #FFFAF4, #FFFFFF);
     --quotecolor: #707070;
     --linkcolor: #061e34;
@@ -31,7 +32,8 @@
     --hljs-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
-    --quotebackground: #9E8229;
+    --quoteborder-left: rgb(140, 180, 255);
+    --quotebackground: rgba(0, 133, 242, 0.19);
     --quotecolor: rgb(238, 238, 238);
     --linkcolor: rgb(245, 245, 245);
     --linkhovercolor: #4e81ae;
