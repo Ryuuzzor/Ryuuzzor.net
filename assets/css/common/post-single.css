@@ -69,7 +69,7 @@
     font-size: 12px;
 }
 
-a{
+.post-content a{
     text-decoration: none;
     color: #061e34;
     border-bottom: 1.5px dashed #ffd600;
