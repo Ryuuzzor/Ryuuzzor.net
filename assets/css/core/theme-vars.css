@@ -33,7 +33,7 @@
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
     --quoteborder-left: rgb(140, 180, 255);
-    --quotebackground: rgba(0, 133, 242, 0.19);
+    --quotebackground: linear-gradient(to right, rgba(0, 133, 242, 0.19), rgba(255,0,0,0) 70.71%);
     --quotecolor: rgb(238, 238, 238);
     --linkcolor: rgb(245, 245, 245);
     --linkhovercolor: #4e81ae;
