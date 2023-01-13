@@ -348,6 +348,7 @@
     margin-bottom: 5px;
 }
 
+.post-tags a,
 .share-buttons,
 .paginav {
     border-radius: var(--radius);
