@@ -301,7 +301,7 @@
 
 .toc {
     margin: 0 2px 40px 2px;
-    border: 1px solid var(--quoteborder-left);
+    border: 1px solid var(--border);
     background: var(--code-bg);
     border-radius: var(--radius);
     padding: 0.4em;
