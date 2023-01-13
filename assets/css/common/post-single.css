@@ -75,7 +75,7 @@
     border-bottom: 1.5px dashed #ffd600;
 }
 
-a:hover {
+.post-content a:hover {
     color: var(--linkhovercolor);
     border-bottom: 1.5px solid #ffd600;
     cursor: pointer;
