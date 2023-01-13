@@ -71,12 +71,12 @@
 
 .post-content a{
     text-decoration: none;
-    color: #061e34;
+    color: var(--linkcolor);
     border-bottom: 1.5px dashed #ffd600;
 }
 
 a:hover {
-    color: #925328;
+    color: var(--linkhovercolor);
     border-bottom: 1.5px solid #ffd600;
     cursor: pointer;
 }
