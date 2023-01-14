@@ -43,6 +43,21 @@
     border: 1px solid var(--border);
 }
 
+.dark.post-entry:hover {
+    background: var(--code-bg);
+}
+
+.post-entry:hover {
+    color: var(--quoteborder-left);
+    background: var(--theme);
+    transition: transform 0.5s;
+    -webkit-transform: scale(1.0);
+    -moz-transform: scale(0.95);
+    -ms-transform: scale(0.95);
+    -o-transform: scale(0.95);
+    transform: scale(0.95);
+}
+
 .post-entry:active {
     transform: scale(0.96);
 }
@@ -95,8 +110,8 @@
     border-radius: var(--radius);
     pointer-events: none;
     width: 100%;
-    height: auto;
-    max-height: 250px;
+    height: 60%;
+    max-height: 432px;
     object-fit: cover;
     object-position: 50% 30%;
 }
