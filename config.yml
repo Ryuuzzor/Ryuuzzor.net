@@ -8,8 +8,6 @@ params:
     Title: Welcome to My Personal Website
     Content: 经验和想象
   socialIcons:
-    - name: twitter
-      url: https://twitter.com/RODE07081933
     - name: instagram
       url: https://www.instagram.com/ryoshiiyuuz/
     - name: rss
