@@ -34,7 +34,6 @@
 }
 
 .post-entry {
-    color: var(--content);
     position: relative;
     margin-bottom: var(--gap);
     padding: var(--gap);
@@ -49,7 +48,6 @@
 }
 
 .post-entry:hover {
-    color: var(--quoteborder-left);
     background: var(--theme);
     transition: transform 0.5s;
     -webkit-transform: scale(1.05);
@@ -104,7 +102,7 @@
 
 .entry-cover {
     margin-bottom: var(--gap);
-    text-align: center;
+    text-align: right;
 }
 
 .entry-cover img {
