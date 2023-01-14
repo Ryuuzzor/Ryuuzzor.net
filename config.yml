@@ -1,6 +1,6 @@
 baseURL: https://stalwart-semifreddo-41b5da.netlify.app
 languageCode: zh-cn
-title: 疑难杂志Mazine
+title: 疑难杂志 Mazine
 theme: hugo-PaperMod
 
 params:
