@@ -21,8 +21,6 @@ params:
   ShowBreadCrumbs: true
 
   ShowReadingTime: true
-  
-  ShowPostNavLinks: true
 
 
 menu:
