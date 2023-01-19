@@ -224,12 +224,12 @@
 }
 
 ::-moz-selection {
-	background: #ffd600;
+	background: #FFD52E;
 	color: #1f1f1f;
 }
 
 ::selection {
-	background: #ffd600;
+	background: #FFD52E;
 	color: #1f1f1f;
 }
 
