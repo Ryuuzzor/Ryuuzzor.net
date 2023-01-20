@@ -22,6 +22,10 @@ params:
 
   ShowReadingTime: true
 
+  ShowToc: true
+
+
+
 
 menu:
   main:
