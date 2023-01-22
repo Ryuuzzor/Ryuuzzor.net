@@ -46,6 +46,13 @@ menu:
       url: /tags/
       weight: 40
 
+assets:
+  favicon: "img/Z.png"
+  favicon16x16: "img/Z.png"
+  favicon32x32: "img/Z.png"
+  apple_touch_icon: "img/Z.png"
+  safari_pinned_tab: "img/Z.png"
+
 markup:
   goldmark:
     renderer:
