@@ -300,6 +300,10 @@
 }
 
 .toc {
+    color: #4e81ae !important;
+    /* 按钮中使用无衬线字体 */
+    font-family: 'Source Han Sans',sans-serif !important;
+    border-bottom: 0px !important;
     margin: 0 2px 40px 2px;
     border: 1px solid var(--border);
     background: var(--entry);
