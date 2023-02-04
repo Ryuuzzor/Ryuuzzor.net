@@ -83,7 +83,7 @@
 
 .toc a:hover {
     color: #4e81ae;
-    border-bottom: 1px solid #ffd600;
+    border-bottom: 1px solid #333;
     transition: margin-right 0.5s;
     cursor: pointer;
 }
@@ -326,7 +326,6 @@
     position: sticky;
     top: 25px;
     border: unset;
-    color: #dce7ef;
     line-height: 1.8em;
     background: unset;
     border-radius: unset;
@@ -346,6 +345,7 @@
 
 .toc .details {
     display: inline;
+    color: #707070;
     font-weight: 500;
 }
 
@@ -359,7 +359,7 @@
 }
 
 .toc ul {
-    list-style-type: "▶ ";
+    list-style-type: none;
 }
 
 .toc .inner {
