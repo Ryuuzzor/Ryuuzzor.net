@@ -22,6 +22,8 @@ params:
 
   ShowReadingTime: true
 
+  ShowFullTextinRSS: true
+
   ShowToc: true
   TocOpen: true
 
