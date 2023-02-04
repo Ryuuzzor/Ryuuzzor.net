@@ -326,6 +326,7 @@
     position: sticky;
     top: var(--gap);
     border: unset;
+    line-height: 2em;
     background: unset;
     border-radius: unset;
     width: 100%;
