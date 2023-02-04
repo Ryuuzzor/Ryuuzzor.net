@@ -23,6 +23,7 @@ params:
   ShowReadingTime: true
 
   ShowToc: true
+  TocOpen: true
 
   assets:
     favicon: "img/Z.png"
