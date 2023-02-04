@@ -32,7 +32,7 @@
 }
 
 .toc details summary {
-    cursor: pointer;
+    cursor: zoom-in;
     margin-inline-start: 20px;
     padding: 12px 0;
 }
@@ -82,7 +82,5 @@
 }
 
 .toc li a:hover {
-    color: #925328;
-    border-bottom: 1.5px solid #ffd600;
-    cursor: pointer;
+    color: var(--secondary);
 }
