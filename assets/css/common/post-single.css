@@ -82,8 +82,8 @@
 }
 
 .toc a:hover {
-    color: var(--linkhovercolor);
-    border-bottom: 1.5px solid #ffd600;
+    color: #4e81ae;
+    border-bottom: 1px solid #ffd600;
     transition: margin-right 0.5s;
     cursor: pointer;
 }
@@ -324,8 +324,9 @@
 
 .wide .toc {
     position: sticky;
-    top: var(--gap);
+    top: 25px;
     border: unset;
+    color: #dce7ef;
     line-height: 1.8em;
     background: unset;
     border-radius: unset;
@@ -358,7 +359,7 @@
 }
 
 .toc ul {
-    list-style-type: none;
+    list-style-type: "▶ ";
 }
 
 .toc .inner {
