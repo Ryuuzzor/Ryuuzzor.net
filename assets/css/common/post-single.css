@@ -326,7 +326,7 @@
     position: sticky;
     top: var(--gap);
     border: unset;
-    line-height: 1.5em;
+    line-height: 1.8em;
     background: unset;
     border-radius: unset;
     width: 100%;
@@ -354,7 +354,7 @@
 
 .active {
     font-weight: 800;
-    color: #ffd600;
+    color: #4e81ae;
 }
 
 .toc ul {
