@@ -32,14 +32,17 @@
     margin: 10px 0;
 }
 
+.archive-entry:hover {
+    color: #4e81ae;
+    position: relative;
+    padding: 5px;
+    margin: 10px 0;
+    font-weight: 500;
+}
+
 .archive-entry-title {
     margin: 5px 0;
     font-weight: 400;
-}
-
-.archive-entry-title:hover {
-    color: #4e81ae;
-    font-weight: 500;
 }
 
 .archive-count{
