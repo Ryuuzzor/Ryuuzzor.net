@@ -34,7 +34,9 @@
 
 .breadcrumbs a:hover {
     color: #ffd600;
-    font-size: 17px;
+    border-bottom: 1.5px solid #ffd600;
+    font-size: 16px;
+    transition: 0.5s;
 }
 
 .post-content {
