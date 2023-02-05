@@ -1,6 +1,12 @@
 .archive-posts {
     width: 100%;
-    font-size: 16px;
+    font-size: 18px;
+}
+
+.archive-posts:hover {
+    color: #4e81ae;
+    width: 100%;
+    font-size: 18px;
 }
 
 .archive-year {
