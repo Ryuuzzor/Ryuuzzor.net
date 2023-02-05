@@ -37,12 +37,13 @@
     font-weight: 400;
 }
 
-.archive-entry-title :hover {
+.archive-count{
     color: #4e81ae;
+    font-size: 14px;
 }
 
-.archive-count,
+
 .archive-meta {
-    color: #ffd600;
+    color: var(--secondary);
     font-size: 14px;
 }
