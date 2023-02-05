@@ -28,7 +28,7 @@
 
 .archive-entry {
     display: block;
-    background: var(--theme);
+    background: #f5f5f5;
     border-radius: var(--radius);
     position: relative;
     padding: 11px;
