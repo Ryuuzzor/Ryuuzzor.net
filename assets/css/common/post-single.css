@@ -301,7 +301,6 @@
 
 .toc {
     color: #707070 !important;
-    border-bottom: 0px !important;
     margin: 0 2px 40px 2px;
     border: 1px solid var(--border);
     background: var(--entry);
@@ -369,7 +368,7 @@
 
 .toc li ul {
     margin-inline-start: calc(var(--gap) * 0.5);
-    list-style-type: circle; 
+    list-style-type: "- "; 
 }
 
 .toc summary:focus {
