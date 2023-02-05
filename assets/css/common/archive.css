@@ -32,7 +32,13 @@
     margin: 10px 0;
 }
 
-.archive-entry-title {
+.archive-entry-title a {
+    margin: 5px 0;
+    font-weight: 400;
+}
+
+.archive-entry-title a:hover {
+    color: #4e81ae;
     margin: 5px 0;
     font-weight: 400;
 }
