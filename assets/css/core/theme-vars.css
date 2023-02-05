@@ -21,6 +21,7 @@
     --quotecolor: #707070;
     --linkcolor: #061e34;
     --linkhovercolor: #925328;
+    --web-background: rgb(245, 245, 245);
 }
 
 .dark {
@@ -38,6 +39,7 @@
     --quotecolor: rgb(238, 238, 238);
     --linkcolor: rgb(245, 245, 245);
     --linkhovercolor: #4e81ae;
+    --web-background: rgb(29, 30, 32);
 }
 
 .list {
