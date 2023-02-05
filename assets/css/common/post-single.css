@@ -32,6 +32,11 @@
     font-size: 16px;
 }
 
+.breadcrumbs a:hover {
+    color: #ffd600;
+    font-size: 16px;
+}
+
 .post-content {
     color: var(--content);
 }
@@ -144,19 +149,22 @@
 
 .post-content table {
     margin-bottom: 32px;
+    font-size: 0.9em;
+    border-collapse: collapse;
 }
 
 .post-content table th,
 .post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
     min-width: 80px;
-    padding: 12px 8px;
+    padding: 0.25em 0.5em;
     line-height: 1.5;
-    border-bottom: 1px solid var(--border);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);;
 }
 
 .post-content table th {
     font-size: 14px;
     text-align: start;
+    background-color: rgba(0, 0, 0, 0.025);
 }
 
 .post-content table:not(.highlighttable) td code:only-child {

@@ -49,6 +49,7 @@ table {
 
 h1 {
     font-size: 2.2em;
+    line-height: 2em;
 }
 
 h2 {
@@ -70,6 +71,7 @@ h5,
 h6 {
     font-size: 1.125em;
     margin: 1em 0;
+    line-height: 1em;
 }
 
 ul {
