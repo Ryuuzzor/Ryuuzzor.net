@@ -32,15 +32,14 @@
     margin: 10px 0;
 }
 
-.archive-entry-title a {
+.archive-entry-title {
     margin: 5px 0;
     font-weight: 400;
 }
 
-.archive-entry-title a:hover {
+.archive-entry-title:hover {
     color: #4e81ae;
-    margin: 5px 0;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .archive-count{
