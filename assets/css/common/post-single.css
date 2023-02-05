@@ -358,7 +358,7 @@
 }
 
 .toc ul {
-    list-style-type: circle;
+    list-style-type: none;
 }
 
 .toc .inner {
@@ -369,7 +369,7 @@
 
 .toc li ul {
     margin-inline-start: calc(var(--gap) * 0.5);
-    list-style-type: "- "; 
+    list-style-type: circle; 
 }
 
 .toc summary:focus {
