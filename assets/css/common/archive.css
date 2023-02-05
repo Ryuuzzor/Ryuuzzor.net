@@ -28,10 +28,10 @@
 
 .archive-entry {
     display: block;
-    background: var(--entry);
+    background: var(--theme);
     border-radius: var(--radius);
     position: relative;
-    padding: 5px;
+    padding: 11px;
     margin: 10px 0;
 }
 
