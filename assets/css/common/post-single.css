@@ -34,12 +34,6 @@
 
 .post-content {
     color: var(--content);
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-    font-size: 16px;
-    font-weight: 500;
-    /* 略宽的文字间距 */
-    letter-spacing: 0.03em;
 }
 
 .post-content h3,

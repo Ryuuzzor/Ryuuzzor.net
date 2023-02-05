@@ -25,10 +25,10 @@ body {
     font-family: 'Noto Serif SC', 'Source Han Serif SC', serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 500;
     letter-spacing: 0.03em;
-    line-height: 1.6;
+    line-height: 2em;
     word-break: break-word;
     background: var(--theme);
 }
