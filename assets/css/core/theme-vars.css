@@ -22,6 +22,7 @@
     --linkcolor: #061e34;
     --linkhovercolor: #925328;
     --web-background: rgb(245, 245, 245);
+    --select: #dce7ef;
 }
 
 .dark {
@@ -40,6 +41,7 @@
     --linkcolor: rgb(245, 245, 245);
     --linkhovercolor: #4e81ae;
     --web-background: rgb(29, 30, 32);
+    --select: rgba(0, 133, 242, 0.057);
 }
 
 .list {
