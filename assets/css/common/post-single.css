@@ -33,7 +33,7 @@
 }
 
 .breadcrumbs a:hover {
-    color: #ffd600;
+    color: #4e81ae;
     font-size: 16px;
 }
 
@@ -414,22 +414,14 @@
     display: block;
     padding-inline-start: 14px;
     padding-inline-end: 14px;
+    color: var(--secondary);
     font-size: 14px;
     line-height: 34px;
-    background-color: #dce7ef;
-    color: #4e81ae;
-    font-family: 'Source Han Sans',sans-serif !important;
-    border: 2px solid #4e81ae;
+    background: var(--code-bg);
 }
 
 .post-tags a:hover {
-    background-color: #E6F0F5 !important;
-    transition: 0.5s;
-}
-
-.post-tags :active {
-    background-color: #A0B8CD !important;
-    transition: 0.1s;
+    background: var(--border);
 }
 
 .paginav a:hover {
