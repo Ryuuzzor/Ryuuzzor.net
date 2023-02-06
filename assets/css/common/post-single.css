@@ -156,7 +156,7 @@
 .post-content table th,
 .post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
     min-width: 80px;
-    padding: 0.25em 0.5em;
+    padding: 12px 8px;
     line-height: 1.5;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);;
 }
