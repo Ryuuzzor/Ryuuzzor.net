@@ -36,7 +36,7 @@
 }
 
 .archive-entry:hover {
-    background: linear-gradient(to right, #FFFAF4, #FFFFFF);;
+    background: var(--select);
 }
 
 .archive-entry-title {
