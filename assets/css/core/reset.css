@@ -23,8 +23,6 @@ h6 {
 
 body {
     font-family: 'Noto Serif SC', 'Source Han Serif SC', serif;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
     font-size: 18px;
     font-weight: 500;
     letter-spacing: 0.03em;
