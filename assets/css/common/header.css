@@ -63,19 +63,17 @@ body:not(.dark) #sun {
 
 #menu a {
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 #menu a:hover {
     color: #4e81ae;
     font-size: 20px;
-    border-bottom: 2.5px solid #ffd600;
-    transition: margin-right 0.5s;
 }
 
 #menu .active {
-    font-weight: 800;
-    border-bottom: 2.5px solid #ffd600;
+    font-weight: 700;
+    border-bottom: 3px solid #ffd600;
 }
 
 .lang-switch li,
