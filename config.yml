@@ -2,6 +2,7 @@ baseURL: https://stalwart-semifreddo-41b5da.netlify.app
 languageCode: zh-cn
 title: 疑难杂志Mazine
 theme: hugo-PaperMod
+paginate: 7
 
 params:
   homeInfoParams:
@@ -18,13 +19,20 @@ params:
   cover:
     linkFullImages: true
 
+  fuseOpts:       #搜索页的相关配置
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
   ShowBreadCrumbs: true
 
   ShowReadingTime: true
 
   ShowFullTextinRSS: true
-
-  Showscroll-to-top: false
 
   ShowToc: true
   TocOpen: true
@@ -37,7 +45,11 @@ params:
     safari_pinned_tab: "img/Z.png"
 
 
-
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 menu:
   main:
@@ -76,7 +88,3 @@ buildFuture: false
 buildExpired: false
 
 #googleAnalytics: UA-123-45 # 谷歌统计
-# Copyright: Sulv
-
-paginate: 15
-
