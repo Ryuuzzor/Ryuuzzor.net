@@ -38,7 +38,7 @@
 }
 
 .post-content {
-    color: var(--content);
+    color: rgb(31, 31, 31);
     line-height: 2em;
 }
 
