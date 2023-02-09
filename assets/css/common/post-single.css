@@ -38,7 +38,7 @@
 }
 
 .post-content {
-    color: #000000;
+    color: var(--body);
     line-height: 2em;
 }
 
