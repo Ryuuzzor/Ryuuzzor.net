@@ -39,6 +39,7 @@
 
 .post-content {
     color: var(--content);
+    line-height: 2em;
 }
 
 .post-content h3,
