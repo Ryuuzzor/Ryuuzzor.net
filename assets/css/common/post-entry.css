@@ -43,6 +43,14 @@
     border: 1px solid var(--border);
 }
 
+.post-entry a {
+    color: #061e34;
+}
+
+.post-entry a:hover {
+    color: #4e81ae;
+}
+
 .post-entry:active {
     transform: scale(0.96);
 }
