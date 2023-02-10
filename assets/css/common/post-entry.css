@@ -100,26 +100,16 @@
     color: var(--secondary);
 }
 
-.entry-isdraft {
-    display: inline
-}
-
 .entry-cover {
     margin-bottom: var(--gap);
-    text-align: center
-}
-
-.post-entry .entry-cover img {
-    display: initial;
-    max-width: 100%;
+    text-align: center;
 }
 
 .entry-cover img {
     border-radius: var(--radius);
     pointer-events: none;
-    max-width: 50%;
-    max-height: 50%;
-    margin: 0 auto;
+    width: 100%;
+    height: auto;
 }
 
 .entry-cover a {
