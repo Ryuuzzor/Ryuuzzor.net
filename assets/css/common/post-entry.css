@@ -51,12 +51,12 @@
     display: none;
 }
 
-.entry-header h2 {
+.entry-header h2 a {
     font-size: 24px;
     line-height: 1.3;
 }
 
-.entry-header h2:hover {
+.entry-header h2 a:hover {
     color: #4e81ae;
 }
 
