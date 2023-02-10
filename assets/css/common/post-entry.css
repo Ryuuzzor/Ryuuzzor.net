@@ -19,16 +19,6 @@
     line-height: 1.3;
 }
 
-a {
-    text-decoration: none;
-    color: #061e34;
-}
-
-a:hover {
-    color: #925328;
-    cursor: pointer;
-}
-
 .first-entry .entry-content {
     margin: 14px 0;
     font-size: 16px;
@@ -64,6 +54,10 @@ a:hover {
 .entry-header h2 {
     font-size: 24px;
     line-height: 1.3;
+}
+
+.entry-header h2:hover {
+    color: #4e81ae;
 }
 
 .entry-content {
