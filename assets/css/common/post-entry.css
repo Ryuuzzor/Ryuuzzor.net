@@ -43,20 +43,6 @@
     border: 1px solid var(--border);
 }
 
-.dark.post-entry:hover {
-    background: var(--code-bg);
-}
-
-.post-entry:hover {
-    background: var(--theme);
-    transition: transform 0.5s;
-    -webkit-transform: scale(1.04);
-    -moz-transform: scale(1.04);
-    -ms-transform: scale(1.04);
-    -o-transform: scale(1.04);
-    transform: scale(1.04);
-}
-
 .post-entry:active {
     transform: scale(0.98);
 }
