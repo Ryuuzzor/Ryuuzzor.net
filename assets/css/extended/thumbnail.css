@@ -23,12 +23,15 @@
 
 .post-entry .entry-header {
     align-self: center;
+    margin: var(--gap) 0 calc(var(--gap) * 2) 24px;
 }
 
 .post-entry .entry-content {
     align-self: center;
+    margin: var(--gap) 0 calc(var(--gap) * 2) 24px;
 }
 
 .post-entry .entry-footer {
     align-self: end;
+    margin: var(--gap) 0 calc(var(--gap) * 2) 24px;
 }
