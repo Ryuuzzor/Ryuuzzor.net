@@ -43,6 +43,10 @@
     border: 1px solid var(--border);
 }
 
+.post-entry:hover {
+    border: 0.3em solid #F1BE48
+}
+
 .post-entry:active {
     transform: scale(0.98);
 }
@@ -89,7 +93,6 @@
 .entry-cover {
     margin-bottom: var(--gap);
     text-align: center;
-    overflow: hidden;
 }
 
 .entry-cover img {
@@ -97,12 +100,6 @@
     pointer-events: none;
     width: 100%;
     height: auto;
-    transform: scale(1);
-    transition: transform 1s ease Os;
-}
-
-.entry-cover img:hover {
-    transform: scale(1.05);
 }
 
 .entry-cover a {
