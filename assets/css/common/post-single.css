@@ -42,37 +42,30 @@
     line-height: 2em;
 }
 
-.post-content h3,
 .post-content h4,
 .post-content h5,
 .post-content h6 {
-    margin: 24px 0 16px;
+    font-size: 1.125em;
+    margin: 1em 0;
 }
 
 .post-content h1 {
     margin: 40px auto 32px;
-    font-size: 40px;
+    font-size: 2.2em;
 }
 
 .post-content h2 {
-    margin: 32px auto 24px;
-    font-size: 32px;
+    font-size: 1.5em;
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+    line-height: 2em;
 }
 
 .post-content h3 {
-    font-size: 24px;
-}
-
-.post-content h4 {
-    font-size: 16px;
-}
-
-.post-content h5 {
-    font-size: 14px;
-}
-
-.post-content h6 {
-    font-size: 12px;
+    font-size: 1.25em;
+    margin-top: 1.25em;
+    margin-bottom: 0.625em;
+    line-height: 2em;
 }
 
 .post-content a{
