@@ -88,10 +88,6 @@ menu:
       name: 话题
       url: /categories/
       weight: 20
-    - identifier: search
-      name: 搜索
-      url: /search/
-      weight: 30  
     - identifier: tags
       name: 标签
       url: /tags/
