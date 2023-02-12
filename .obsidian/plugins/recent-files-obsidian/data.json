@@ -1,0 +1,43 @@
+{
+  "recentFiles": [
+    {
+      "basename": "像清理后台一样写作",
+      "path": "content/posts/像清理后台一样写作.md"
+    },
+    {
+      "basename": "default",
+      "path": "archetypes/default.md"
+    },
+    {
+      "basename": "first",
+      "path": "content/posts/first.md"
+    },
+    {
+      "basename": "archives",
+      "path": "content/archives.md"
+    },
+    {
+      "basename": "about",
+      "path": "content/about.md"
+    },
+    {
+      "basename": "search",
+      "path": "content/search.md"
+    },
+    {
+      "basename": "Z",
+      "path": "static/img/Z.png"
+    },
+    {
+      "basename": "sleep",
+      "path": "static/img/sleep.png"
+    },
+    {
+      "basename": "firstpost_cover",
+      "path": "static/img/firstpost_cover.jpg"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

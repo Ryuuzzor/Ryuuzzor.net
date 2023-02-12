@@ -1,0 +1,21 @@
+{
+  "choices": [],
+  "macros": [
+    {
+      "name": "创建博客",
+      "id": "07209e62-7507-40f1-b376-26de970b8139",
+      "commands": [
+        {
+          "name": "NewBlog",
+          "type": "UserScript",
+          "id": "74ef7224-0ce5-4ec6-80b3-ce92f6f750be",
+          "path": "obs_sctipts/NewBlog.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false
+}
