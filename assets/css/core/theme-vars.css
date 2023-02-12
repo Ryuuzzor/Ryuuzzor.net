@@ -24,6 +24,7 @@
     --web-background: rgb(245, 245, 245);
     --select: #dce7ef;
     --body: #000000;
+    --footer: #747474;
 }
 
 .dark {
@@ -44,6 +45,7 @@
     --web-background: rgb(29, 30, 32);
     --select: rgba(241, 190, 72, 0.566);
     --body: rgb(196, 196, 197);
+    --footer: rgb(155, 156, 157);
 }
 
 .list {

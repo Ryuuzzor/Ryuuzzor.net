@@ -15,7 +15,7 @@
 
 .post-meta,
 .breadcrumbs {
-    color: var(--secondary);
+    color: var(--footer);
     font-size: 14px;
     display: flex;
     flex-wrap: wrap;
