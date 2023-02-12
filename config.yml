@@ -2,15 +2,29 @@ baseURL: https://stalwart-semifreddo-41b5da.netlify.app
 languageCode: zh-cn
 title: 疑难杂志Mazine
 theme: hugo-PaperMod
-paginate: 7
+paginate: 8
+#googleAnalytics: UA-123-45 # 谷歌统计
+ignoreFiles:
+  - obsidian template
+  - .obsidian
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+permalinks: # 访问博客时网址的显示形式
+  post: "/:title/"
 
 params:
+  env: production
+  defaultTheme: auto
+  author: Ryuuzzor
   homeInfoParams:
     Title: Welcome to My Personal Website
     Content: 经验和想象
   socialIcons:
     - name: instagram
-      url: https://www.instagram.com/ryoshiiyuuz/
+      url: https://www.instagram.com/ryuuzzor/
     - name: rss
       url: https://stalwart-semifreddo-41b5da.netlify.app/index.xml
     - name: email
@@ -18,6 +32,10 @@ params:
 
   cover:
     linkFullImages: true
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
 
   fuseOpts:       #搜索页的相关配置
     isCaseSensitive: false
@@ -36,6 +54,14 @@ params:
 
   ShowToc: true
   TocOpen: true
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
 
   assets:
     favicon: "img/Z.png"
@@ -75,16 +101,17 @@ markup:
     renderer:
       unsafe: true
 
-
-
 enableInlineShortcodes: true
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
 enableRobotsTXT: true # 允许爬虫抓取到搜索引擎，建议 true
-
 hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
 
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-#googleAnalytics: UA-123-45 # 谷歌统计
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
