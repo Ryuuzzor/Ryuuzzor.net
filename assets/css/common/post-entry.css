@@ -68,8 +68,9 @@
 }
 
 .entry-footer {
-    color: var(--footer);
+    color: var(--secondary);
     font-size: 13px;
+    font-family: 'Source Han Sans',sans-serif !important;
 }
 
 .entry-link {
