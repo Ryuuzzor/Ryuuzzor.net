@@ -51,14 +51,12 @@
 
 .post-content h1 {
     margin: 40px auto 32px;
-    font-size: 2.2em;
+    font-size: 40px;
 }
 
 .post-content h2 {
-    font-size: 1.5em;
-    margin-top: 1.5em;
-    margin-bottom: 0.75em;
-    line-height: 2em;
+    margin: 32px auto 24px;
+    font-size: 32px;
 }
 
 .post-content h3 {
