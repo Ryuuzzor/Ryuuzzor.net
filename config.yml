@@ -54,6 +54,7 @@ params:
 
   ShowToc: true
   TocOpen: true
+  disableAnchoredHeadings: ture
 
   analytics:
     google:
