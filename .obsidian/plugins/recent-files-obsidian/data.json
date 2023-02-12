@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "front matter",
+      "path": "obsidian template/front matter.md"
+    },
+    {
       "basename": "像清理后台一样写作",
       "path": "content/posts/像清理后台一样写作.md"
     },
     {
-      "basename": "default",
-      "path": "archetypes/default.md"
-    },
-    {
       "basename": "first",
       "path": "content/posts/first.md"
+    },
+    {
+      "basename": "README",
+      "path": "themes/hugo-PaperMod/README.md"
+    },
+    {
+      "basename": "default",
+      "path": "archetypes/default.md"
     },
     {
       "basename": "archives",

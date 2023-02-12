@@ -2,7 +2,7 @@
   "accentColor": "#ffcb52",
   "theme": "obsidian",
   "cssTheme": "Things",
-  "interfaceFontFamily": "Noto Serif",
-  "textFontFamily": "Noto Serif",
+  "interfaceFontFamily": "Noto Serif SC",
+  "textFontFamily": "Noto Serif SC",
   "baseFontSize": 18
 }
