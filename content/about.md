@@ -11,11 +11,11 @@ cover:
     caption: 'Generated in Midjourney with the prompt “Lost in a maze of consciousness: a surreal illustration of confusion and discovery, by Kilian Eng”'
 ---
 
-### About Me - Ryuuzzor
+### Author / Ryuuzzor
 
 学生，媒体行业，自由工作者
 
-### About The Website - 关于本站
+### Website / 关于本站
 
 #### 疑难杂志•Mazine
 

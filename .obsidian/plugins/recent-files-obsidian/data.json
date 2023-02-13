@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "about",
-      "path": "content/about.md"
-    },
-    {
       "basename": "first",
       "path": "content/posts/first.md"
     },
     {
-      "basename": "front matter",
-      "path": "obsidian template/front matter.md"
-    },
-    {
       "basename": "像清理后台一样写作",
       "path": "content/posts/像清理后台一样写作.md"
+    },
+    {
+      "basename": "about",
+      "path": "content/about.md"
+    },
+    {
+      "basename": "front matter",
+      "path": "obsidian template/front matter.md"
     },
     {
       "basename": "README",
