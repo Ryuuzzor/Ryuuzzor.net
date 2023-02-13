@@ -13,7 +13,7 @@ cover:
 
 ### About Me - Ryuuzzor
 
-学生，媒体行业，自由工作
+学生，媒体行业，自由工作者
 
 ### About The Website - 关于本站
 
@@ -28,3 +28,5 @@ cover:
 于是，在（脑海里想着杂志 Magazine）胡乱拼凑下就有了「Mazine」（嗯，Amazing）。
 
 后来，「疑难杂志」也就顺理成章出来了。
+
+> 经验遗失
