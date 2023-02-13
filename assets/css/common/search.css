@@ -20,6 +20,10 @@
     font-weight: 500;
 }
 
+#searchResults li:hover {
+    color: #4e81ae;
+}
+
 #searchResults {
     margin: 10px 0;
     width: 100%;
@@ -37,10 +41,6 @@
     top: 0px;
     left: 0px;
     outline: none;
-}
-
-#searchResults a:hover {
-    color: #4e81ae;
 }
 
 #searchResults .focus {
