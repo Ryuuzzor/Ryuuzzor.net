@@ -28,6 +28,7 @@
     box-shadow: 0 1px 0 var(--secondary);
 }
 
+/* 文章顶部入口 */
 .breadcrumbs a {
     font-size: 16px;
 }
@@ -37,11 +38,13 @@
     font-size: 16px;
 }
 
+/* 正文 */
 .post-content {
     color: var(--body);
     line-height: 2em;
 }
 
+/* 标题  */
 .post-content h4,
 .post-content h5,
 .post-content h6 {
@@ -66,18 +69,21 @@
     line-height: 2em;
 }
 
+/* 链接 */
 .post-content a{
     text-decoration: none;
     color: var(--linkcolor);
     border-bottom: 1.5px dashed #ffd600;
 }
 
+/* 链接悬浮时变色方案 */
 .post-content a:hover {
     color: var(--linkhovercolor);
     border-bottom: 1.5px solid #ffd600;
     cursor: pointer;
 }
 
+/* 目录悬浮时的变化方案 */
 .toc a:hover {
     color: #4e81ae;
     border-bottom: 0.8px solid #4e81ae;
@@ -203,6 +209,8 @@
     margin-bottom: 0;
 }
 
+/* 代码块 */
+
 .post-content code {
     margin: auto 4px;
     padding: 4px 6px;
@@ -223,6 +231,8 @@
     word-break: break-all;
 }
 
+/* 鼠标选择颜色 */
+
 ::-moz-selection {
 	background: #fde699;
 	color: #1f1f1f;
@@ -233,6 +243,8 @@
 	color: #1f1f1f;
 }
 
+/* 块级引用 */
+
 .post-content blockquote {
     border-left: 6px solid var(--quoteborder-left);
     color: var(--quotecolor);
@@ -241,6 +253,8 @@
     padding-left: 20px;
     background: var(--quotebackground)
 }
+
+/* ===== 分割线 ===== */
 
 .post-content hr {
     overflow: visible;
