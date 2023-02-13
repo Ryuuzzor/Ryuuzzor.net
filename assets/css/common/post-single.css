@@ -115,12 +115,14 @@
     padding-inline-start: 20px;
 }
 
-.post-content li {
-    margin-top: 5px;
-}
-
+.post-content li 
 .post-content li p {
-    margin-bottom: 0;
+    color: #061E34;
+    background-color: #fff7e3;
+    font-size: .8em;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
 }
 
 .post-content dl {

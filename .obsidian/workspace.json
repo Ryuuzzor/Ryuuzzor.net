@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/first.md",
+                "file": "content/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "bf9fd0bd0f6c4b98",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/first.md",
+                "file": "content/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/first.md",
+                "file": "content/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/first.md"
+                "file": "content/about.md"
               }
             }
           },
@@ -166,13 +165,13 @@
   },
   "active": "700e6c846b8adbbc",
   "lastOpenFiles": [
-    "content/posts/像清理后台一样写作.md",
     "obsidian template/front matter.md",
+    "content/about.md",
     "content/posts/first.md",
+    "content/posts/像清理后台一样写作.md",
     "themes/hugo-PaperMod/README.md",
     "archetypes/default.md",
     "content/archives.md",
-    "content/about.md",
     "content/search.md",
     "static/img/Z.png",
     "static/img/sleep.png"
