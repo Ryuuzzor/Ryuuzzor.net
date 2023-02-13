@@ -80,6 +80,10 @@
     bottom: 0;
 }
 
+.entry-link:hover {
+    color: #4e81ae;
+}
+
 .entry-cover,
 .entry-isdraft {
     font-size: 14px;
