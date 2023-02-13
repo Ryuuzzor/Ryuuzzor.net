@@ -31,8 +31,6 @@ categories: ["Items"]
 
 过去我就和问题死磕了一年，这显然不是聪明的做法。然而几乎每进入一个新的阶段，甚至每隔一段时间，你都会不断产生各种各样新的问题——我想，所谓的「不惑之年」真的存在吗？
 
-{{< figure src="/img/Maze.png" title="MAZE" caption="Generated in Midjourney with the prompt “Lost in a maze of consciousness: a surreal illustration of confusion and discovery, by Kilian Eng.”[comment](https://github.com/navendu-pottekkat/navendu-pottekkat.github.io/pull/29#issuecomment-1228479360)" width="100%"  class="align-center"  >}}
-
 问题多了没解决，拖着拖着就有了这样的经验：很多没有及时回答的问题，耗着耗着就不见了：自己不再迫切地想要解答它。当时的我认为这是因为一个人只要进入新的阶段，就能自然而然地不受旧问题的困扰 [^1]。但最近慢慢发现，以前一直耗着，没有好好回答的问题，过了一段时间（进入一个新的阶段），会变了样子来找你——本质上还是原来的问题，只是换了种问法。
 
 ### 现在正在测试目录
