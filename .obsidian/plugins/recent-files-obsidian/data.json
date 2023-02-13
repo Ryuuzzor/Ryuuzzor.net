@@ -5,12 +5,12 @@
       "path": "content/about.md"
     },
     {
-      "basename": "front matter",
-      "path": "obsidian template/front matter.md"
-    },
-    {
       "basename": "first",
       "path": "content/posts/first.md"
+    },
+    {
+      "basename": "front matter",
+      "path": "obsidian template/front matter.md"
     },
     {
       "basename": "像清理后台一样写作",
