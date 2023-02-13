@@ -6,7 +6,6 @@ weight: 50
 showtoc: true
 searchHidden: true
 ---
-
 {{< figure src="/img/Maze.png" caption="Generated in Midjourney with the prompt “Lost in a maze of consciousness: a surreal illustration of confusion and discovery, by Kilian Eng.”" width="100%"  class="align-center"  >}}
 
 ### Author / Ryuuzzor
