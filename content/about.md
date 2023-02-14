@@ -6,7 +6,7 @@ weight: 50
 showtoc: true
 searchHidden: true
 ShowReadingTime: false
-Showauthor: false
+ShowBreadCrumbs: false
 ---
 {{< figure src="/img/Maze.png" caption="Generated in Midjourney with the prompt “Lost in a maze of consciousness: a surreal illustration of confusion and discovery, by Kilian Eng.”" width="100%"  class="align-center"  >}}
 
@@ -19,13 +19,11 @@ Showauthor: false
 
 [《疑难杂志 MazIne》](https://stalwart-semifreddo-41b5da.netlify.app/)是由 R.Yuuzzor 全新构思的媒体计划，名字的根源和 *Westworld*  里的重要意象——[Maze](https://westworld.fandom.com/wiki/The_Maze)（迷宫）有点关系。
 
-> Arnold explains to her that he realized that consciousness is not a journey upward, as he had previously assumed, but a journey inward, like a maze.
-> 
 > The Maze is both a symbol that is seen everywhere in [Westworld](https://westworld.fandom.com/wiki/Westworld_(Location) "Westworld (Location)") and throughout the history of the park, and a representation of [Arnold's](https://westworld.fandom.com/wiki/Arnold_Weber "Arnold Weber") theory of creating consciousness.
 > 
 > ——[Westworld](https://westworld.fandom.com/wiki/Westworld_Wiki) 
 
-起名时，自觉“**In Maze**”恰好可以用来描述自己当时的状态，于是，脑海里想着 Magazine（杂志），在胡乱拼凑之下就有了「MazIne」。
+起名时，自觉 **In Maze** 恰好可以用来描述自己当时的状态，于是，脑海里想着 Magazine（杂志），在胡乱拼凑之下就有了「MazIne」。
 
 后来，「疑难杂志」这个词也顺理成章地出来了。<br>
 <br>
@@ -42,6 +40,7 @@ Showauthor: false
 #### 一些更表层的动机
 
 > 一个人很难触及自己经验范畴以外的东西，甚至，一旦到达了新的人生阶段后，人还会“遗失”过去的某些经验。
+> 
 > 比如当一个孩子成为大人后可能会说：我完全不理解自己的孩子，搞不懂那个年纪的人。
 >  
 > ...
