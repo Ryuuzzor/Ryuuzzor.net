@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42e67411700b5e8d",
+        "id": "f06ef4d236329a68",
         "type": "tabs",
         "children": [
           {
-            "id": "9f6b470342ab26ac",
+            "id": "789748da54334a78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/essays/20230215.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about.md",
+                "file": "content/essays/20230215.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/about.md",
+                "file": "content/essays/20230215.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/about.md"
+                "file": "content/essays/20230215.md"
               }
             }
           },
@@ -163,7 +163,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9f6b470342ab26ac",
+  "active": "789748da54334a78",
   "lastOpenFiles": [
     "content/about.md",
     "content/posts/像清理后台一样写作.md",
