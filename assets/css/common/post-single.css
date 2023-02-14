@@ -254,7 +254,7 @@
     color: var(--quotecolor);
     font-style: bold; 
     margin: 0 0 35px 0px;
-    padding-left: 30px;
+    padding-left: 25px;
     background: var(--quotebackground)
 }
 
