@@ -246,8 +246,8 @@
 /* 块级引用 */
 
 .post-content blockquote {
-    font-size: 18px;
-    line-height: 1.7;
+    font-size: 14px;
+    line-height: 1.6;
     border-left: 6px solid var(--quoteborder-left);
     color: var(--quotecolor);
     font-style: bold; 
