@@ -4,7 +4,7 @@ layout: "about"
 menu: main
 weight: 50
 showtoc: true
-author: ["Me"]
+author: [""]
 searchHidden: true
 ShowReadingTime: false
 ---
