@@ -12,8 +12,11 @@ searchHidden: true
 
 学生，媒体行业，自由工作者
  
- 
+<br>
+
 ### Website/关于本站
+
+[《疑难杂志 MazIne》](https://stalwart-semifreddo-41b5da.netlify.app/)是由 Yuuzzor 全新构思的媒体计划，名字受启发于 *Westworld*   里的重要意象——[Maze](https://westworld.fandom.com/wiki/The_Maze)（迷宫）。
 
 > Arnold explains to her that he realized that consciousness is not a journey upward, as he had previously assumed, but a journey inward, like a maze.
 > 
@@ -21,13 +24,12 @@ searchHidden: true
 > 
 > ——[Westworld](https://westworld.fandom.com/wiki/Westworld_Wiki) 
 
-[《疑难杂志 MazIne》](https://stalwart-semifreddo-41b5da.netlify.app/)是由 Yuuzzor 全新构思的媒体计划，名字受启发于 *Westworld*   里的重要意象——[Maze](https://westworld.fandom.com/wiki/The_Maze)（迷宫）。
-
-「In Maze」，恰好可以描述我当时所处的一种状态，于是，脑海里想着 Magazine（杂志），在胡乱拼凑之下就有了「MazIne」。
+「In Maze」，恰好可以用来描述我当时所处的一种状态，于是，脑海里想着 Magazine（杂志），在胡乱拼凑之下就有了「MazIne」。
 
 再后来，「疑难杂志」这个词也顺理成章蹦了出来。
  
- 
+<br>
+
 #### 为什么要有一个自己的博客网站？
 
 建站的原因很多，从最深层的心理因素上来看（显然，创作内容的平台有很多）：
@@ -35,8 +37,9 @@ searchHidden: true
 也许是远古的回忆里存在某种对互联网（Geek）的情愫在作祟
 
 也许就只是想标旧立异。
- 
- 
+
+<br>
+
 #### 一些更表层的动机
 
 > 一个人很难触及自己经验范畴以外的东西，甚至，一旦到达了新的人生阶段后，人还会“遗失”过去的某些经验。
@@ -62,7 +65,8 @@ searchHidden: true
 
 从这个意义上讲，（把自己想象成一座孤岛）「记录」更像是一项为了「打破高墙而筑起桥梁」的工程。
  
- 
+<br>
+
 #### 谈谈这个博客的价值
 
 > 我们日常听到的大多数事物都明确表示了其应归属的门类，于是即可被大脑下意识地归档：绯闻故事进入早已满荷的《男女关系大全》，某位首席执行官的突然下岗插入《工作和地位》，以积累对该主题的理解。
@@ -89,6 +93,7 @@ searchHidden: true
 
 实现为自己而作的前提是，尽量不要太乏味。
  
- 
+<br>
+
 #### 成为随笔作家
 
