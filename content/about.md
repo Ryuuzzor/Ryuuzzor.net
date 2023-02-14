@@ -20,7 +20,7 @@ ShowReadingTime: false
 
 [《疑难杂志 MazIne》](https://stalwart-semifreddo-41b5da.netlify.app/)是由 R.Yuuzzor 全新构思的媒体计划，名字的根源和 *Westworld*  里的重要意象——[Maze](https://westworld.fandom.com/wiki/The_Maze)（迷宫）有点关系。
 
-> The Maze is both a symbol that is seen everywhere in [Westworld](https://westworld.fandom.com/wiki/Westworld_(Location) "Westworld (Location)") and throughout the history of the park, and a representation of [Arnold's](https://westworld.fandom.com/wiki/Arnold_Weber "Arnold Weber") theory of creating consciousness.
+> The Maze is both a symbol that is seen everywhere in Westworld and throughout the history of the park, and a representation of Arnold's theory of creating consciousness.
 > 
 > ——[Westworld](https://westworld.fandom.com/wiki/Westworld_Wiki) 
 
