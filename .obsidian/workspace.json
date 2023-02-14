@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "bf9fd0bd0f6c4b98",
@@ -167,8 +166,8 @@
   "active": "700e6c846b8adbbc",
   "lastOpenFiles": [
     "content/posts/像清理后台一样写作.md",
-    "content/about.md",
     "content/posts/first.md",
+    "content/about.md",
     "obsidian template/front matter.md",
     "themes/hugo-PaperMod/README.md",
     "archetypes/default.md",
