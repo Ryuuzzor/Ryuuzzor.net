@@ -17,13 +17,7 @@ ShowReadingTime: false
 
 ### Website/关于本站
 
-[《疑难杂志 MazIne》](https://stalwart-semifreddo-41b5da.netlify.app/)是由 R.Yuuzzor 全新构思的媒体计划，名字的根源和 *Westworld*  里的重要意象——[Maze](https://westworld.fandom.com/wiki/The_Maze)（迷宫）有点关系。
-
-> The Maze is both a symbol that is seen everywhere in Westworld and throughout the history of the park, and a representation of Arnold's theory of creating consciousness.
-> 
-> ——[Westworld](https://westworld.fandom.com/wiki/Westworld_Wiki) 
-
-起名时，自觉 **In Maze** 恰好可以用来描述当时的状态，于是，脑海里想着 Magazine，在胡乱拼凑之下就有了「MazIne」。后来，「疑难杂志」这个词也顺理成章地出来了。<br>
+[《疑难杂志 MazIne》](https://stalwart-semifreddo-41b5da.netlify.app/)是由 R.Yuuzzor 全新构思的媒体计划。<br>
 <br>
 
 ### 为什么要有一个自己的博客网站？<br>
@@ -96,6 +90,12 @@ ShowReadingTime: false
 >
 >——阿兰·德波顿
 
+
+一直觉得起名多少要有点寓意吧，所以就拿了剧集 *Westworld*  里的重要符号——[Maze](https://westworld.fandom.com/wiki/The_Maze)（迷宫）作为根源。起名时，自觉 “In Maze” 刚好可以用来描述当时的状态，于是，脑海里想着 Magazine，胡乱拼凑之下就有了「MazIne」。明确了博客的内容方向以后，「疑难杂志」这个词也顺理成章地出来了，倒是意外地十分合适。
+
+> The Maze is both a symbol that is seen everywhere in Westworld and throughout the history of the park, and a representation of Arnold's theory of creating consciousness.
+> 
+> ——[Westworld](https://westworld.fandom.com/wiki/Westworld_Wiki) 
 
 ---
 
