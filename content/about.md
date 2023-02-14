@@ -21,7 +21,7 @@ searchHidden: true
 > 
 > ——[Westworld](https://westworld.fandom.com/wiki/Westworld_Wiki) 
 
-[《疑难杂志 MazIne》](https://stalwart-semifreddo-41b5da.netlify.app/)是由 Yuuzzor 全新构思的媒体计划，名字受启发于 *Westworld*  里的重要意象——[Maze（迷宫）](https://westworld.fandom.com/wiki/The_Maze)。而「In Maze」，会是我当时所处状态的一种描述，于是，脑海里想着杂志（ Magazine），在胡乱拼凑之下就有了「MazIne」（嗯，Amazing）。
+[《疑难杂志 MazIne》](https://stalwart-semifreddo-41b5da.netlify.app/)是由 Yuuzzor 全新构思的媒体计划，名字受启发于 *Westworld*   里的重要意象——[Maze](https://westworld.fandom.com/wiki/The_Maze)（迷宫）。而「In Maze」，会是我当时所处状态的一种描述，于是，脑海里想着杂志（ Magazine），在胡乱拼凑之下就有了「MazIne」（嗯，Amazing）。
 
 再后来，「疑难杂志」这个词也顺理成章蹦了出来。
 
