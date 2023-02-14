@@ -87,6 +87,8 @@ searchHidden: true
 >
 >—— Tim Bray（Lawrence Li 译）
 
-
+实现为自己而作的前提是，尽量不要太乏味。
+ 
+ 
 #### 成为随笔作家
 
