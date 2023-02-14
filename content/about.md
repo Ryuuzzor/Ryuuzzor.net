@@ -24,7 +24,7 @@ ShowReadingTime: false
 > 
 > ——[Westworld](https://westworld.fandom.com/wiki/Westworld_Wiki) 
 
-起名时，自觉 **In Maze** 恰好可以用来描述自己当时的状态，于是，脑海里想着 Magazine（杂志），在胡乱拼凑之下就有了「MazIne」。
+起名时，自觉 **In Maze** 恰好可以用来描述自己当时的状态，于是，脑海里想着 Magazine，在胡乱拼凑之下就有了「MazIne」。
 
 后来，「疑难杂志」这个词也顺理成章地出来了。<br>
 <br>
