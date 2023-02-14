@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "030db91dcd676607",
+        "id": "42e67411700b5e8d",
         "type": "tabs",
         "children": [
           {
-            "id": "700e6c846b8adbbc",
+            "id": "9f6b470342ab26ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "bf9fd0bd0f6c4b98",
@@ -164,11 +163,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "700e6c846b8adbbc",
+  "active": "9f6b470342ab26ac",
   "lastOpenFiles": [
+    "content/about.md",
     "content/posts/像清理后台一样写作.md",
     "content/posts/first.md",
-    "content/about.md",
     "obsidian template/front matter.md",
     "themes/hugo-PaperMod/README.md",
     "archetypes/default.md",
