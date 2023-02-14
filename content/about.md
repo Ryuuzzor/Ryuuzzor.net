@@ -15,8 +15,7 @@ ShowReadingTime: false
 学生，媒体行业，自由工作者<br>
 <br>
 
-### Website/关于本站<br>
-<br>
+### Website/关于本站
 
 [《疑难杂志 MazIne》](https://stalwart-semifreddo-41b5da.netlify.app/)是由 R.Yuuzzor 全新构思的媒体计划，名字的根源和 *Westworld*  里的重要意象——[Maze](https://westworld.fandom.com/wiki/The_Maze)（迷宫）有点关系。
 
