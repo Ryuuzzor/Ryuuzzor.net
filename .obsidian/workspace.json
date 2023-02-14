@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d4c1af6f3fc3168",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/essays/20230215.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/essays/20230215.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/essays/20230215.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,8 +168,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "789748da54334a78",
+  "active": "9d4c1af6f3fc3168",
   "lastOpenFiles": [
+    "content/essays/_index.md.md",
+    "content/essays/20230215.md",
     "content/about.md",
     "content/posts/像清理后台一样写作.md",
     "content/posts/first.md",
@@ -172,8 +179,6 @@
     "themes/hugo-PaperMod/README.md",
     "archetypes/default.md",
     "content/archives.md",
-    "content/search.md",
-    "static/img/Z.png",
-    "static/img/sleep.png"
+    "content/search.md"
   ]
 }
