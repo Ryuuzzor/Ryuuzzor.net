@@ -49,6 +49,7 @@ params:
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowFullTextinRSS: true
+  ShowRssButtonInSectionTermList: ture
   ShowToc: true
   TocOpen: true
   disableAnchoredHeadings: ture

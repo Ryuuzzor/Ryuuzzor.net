@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "front matter",
+      "path": "obsidian template/front matter.md"
+    },
+    {
       "basename": "20230215",
       "path": "content/essays/20230215.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "first",
       "path": "content/posts/first.md"
-    },
-    {
-      "basename": "front matter",
-      "path": "obsidian template/front matter.md"
     },
     {
       "basename": "README",
