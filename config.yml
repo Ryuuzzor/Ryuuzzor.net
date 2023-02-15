@@ -18,7 +18,6 @@ permalinks: # 访问博客时网址的显示形式
 params:
   env: production
   defaultTheme: auto
-  author: Ryuuzzor
   mainSections: ["posts"]
   homeInfoParams:
     Title: Welcome to My Personal Website
