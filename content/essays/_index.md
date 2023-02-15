@@ -1,6 +1,6 @@
 ---
-title: Daily Nuts
-description: 短文，片段思想的记录
+title: Daily Nuts(Cliché)
+description: 碎片化的，奇思妙想的，陈词滥调的
 archivesSlug: archives
 cascade:
   - _target:
