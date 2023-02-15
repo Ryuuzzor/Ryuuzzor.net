@@ -81,8 +81,8 @@ menu:
       name: 文章列表
       url: /archives/
       weight: 10
-    - identifier: 吉光片羽
-      name: 吉光片羽
+    - identifier: essays
+      name: 坚果
       url: /essays/
       weight: 20
     - identifier: tags

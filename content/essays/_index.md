@@ -1,5 +1,5 @@
 ---
-title: Essays
+title: Daily Nuts
 description: 短文，片段思想的记录
 archivesSlug: archives
 cascade:
