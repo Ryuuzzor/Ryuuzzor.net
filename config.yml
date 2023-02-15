@@ -19,7 +19,7 @@ params:
   env: production
   defaultTheme: auto
   author: Ryuuzzor
-  mainSections: ['posts']
+  mainSections: ["posts", "essays"]
   homeInfoParams:
     Title: Welcome to My Personal Website
     Content: 经验和想象
@@ -86,7 +86,7 @@ menu:
       url: /archives/
       weight: 10
     - identifier: Essays
-      name: 吉光片羽
+      name: Essays
       url: /essays/
       weight: 20
     - identifier: tags
