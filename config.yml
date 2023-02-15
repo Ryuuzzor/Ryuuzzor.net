@@ -48,11 +48,8 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 
   ShowBreadCrumbs: true
-
   ShowReadingTime: true
-
   ShowFullTextinRSS: true
-
   ShowToc: true
   TocOpen: true
   disableAnchoredHeadings: ture
@@ -71,7 +68,6 @@ params:
     favicon32x32: "img/Z.png"
     apple_touch_icon: "img/Z.png"
     safari_pinned_tab: "img/Z.png"
-
 
 outputs:
   home:
