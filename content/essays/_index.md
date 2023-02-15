@@ -1,5 +1,5 @@
 ---
-title: Daily Nuts(Cliché)
+title: Daily Nuts
 description: 碎片化的，奇思妙想的，陈词滥调的
 archivesSlug: archives
 cascade:
