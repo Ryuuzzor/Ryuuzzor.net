@@ -1,5 +1,5 @@
 ---
-title: 吉光片羽
+title: Essays
 description: 短文，片段思想的记录
 archivesSlug: archives
 cascade:
