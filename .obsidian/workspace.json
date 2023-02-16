@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "adcd89e579a68c4f",
+        "id": "6981fa4b7140dc38",
         "type": "tabs",
         "children": [
           {
-            "id": "1ac9b7dec7f1bcbc",
+            "id": "90f7e2964fe420c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian template/front matter.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian template/front matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian template/front matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian template/front matter.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,14 +155,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1ac9b7dec7f1bcbc",
+  "active": "dd3808aada4d3769",
   "lastOpenFiles": [
-    "content/essays/20230215.md",
-    "content/essays/_index.md.md",
-    "content/about.md",
     "content/posts/像清理后台一样写作.md",
-    "content/posts/first.md",
+    "content/essays/20230215.md",
+    "content/about.md",
     "obsidian template/front matter.md",
+    "content/essays/_index.md.md",
+    "content/posts/first.md",
     "themes/hugo-PaperMod/README.md",
     "archetypes/default.md",
     "content/archives.md",
