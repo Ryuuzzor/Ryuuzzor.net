@@ -57,5 +57,13 @@
       ],
       "key": "D"
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
