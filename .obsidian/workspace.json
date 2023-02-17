@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7626e59eff1f88cd",
+        "id": "35141f2a8e91ccd5",
         "type": "tabs",
         "children": [
           {
-            "id": "4b9b652cb01fad72",
+            "id": "7f102c1daaadffea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "bf9fd0bd0f6c4b98",
@@ -156,9 +155,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4b9b652cb01fad72",
+  "active": "7f102c1daaadffea",
   "lastOpenFiles": [
     "content/posts/博客开篇，随意聊聊.md",
+    "content/posts/未命名.md",
     "content/essays/20230215.md",
     "content/posts/像清理后台一样写作.md",
     "content/essays/20230217.md",
@@ -166,7 +166,6 @@
     "obsidian template/front matter.md",
     "obsidian template/Daily.md",
     "content/posts/first.md",
-    "content/essays/_index.md.md",
-    "themes/hugo-PaperMod/README.md"
+    "content/essays/_index.md.md"
   ]
 }
