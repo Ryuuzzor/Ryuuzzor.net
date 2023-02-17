@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/博客开篇，随意聊聊.md",
+                "file": "content/posts/像清理后台一样写作.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/博客开篇，随意聊聊.md",
+                "file": "content/posts/像清理后台一样写作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/博客开篇，随意聊聊.md",
+                "file": "content/posts/像清理后台一样写作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/博客开篇，随意聊聊.md"
+                "file": "content/posts/像清理后台一样写作.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "aa70552770d2e61b",
   "lastOpenFiles": [
-    "content/about.md",
     "content/posts/博客开篇，随意聊聊.md",
+    "content/about.md",
     "content/posts/像清理后台一样写作.md",
     "obsidian template/front matter.md",
     "content/posts/first.md",
