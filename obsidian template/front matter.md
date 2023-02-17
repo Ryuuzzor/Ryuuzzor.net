@@ -12,10 +12,9 @@ showToc: true
 hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等 
 ShowWordCount: true
 ShowReadingTime: true
-cover: 
-	image: 
-	caption: ""
-	alt: 'This is a post image' 
-	relative: false
+cover:
+    image: img/#1/Maze.png
+    alt: 'This is a post image'
+    caption: ''
 summary: ""
 ---
