@@ -1,10 +1,10 @@
 ---
 title: "{{title}}"
-date: {{Date}}  
+date: {{date}}  
 draft: true
 lastmod: 
 author: [""] 
-tags: ["", ""]
+tags: [""]
 categories: [""]
 description: "" #描述 
 weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序

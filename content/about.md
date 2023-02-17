@@ -8,18 +8,18 @@ author: [""]
 searchHidden: true
 ShowReadingTime: false
 ---
-{{< figure src="/img/Maze.png" caption="Generated in Midjourney with the prompt “Lost in a maze of consciousness: a surreal illustration of confusion and discovery, by Kilian Eng.”" width="100%"  class="align-center"  >}}
+{{< figure src="/img/#1/Maze.png" caption="Generated in Midjourney with the prompt “Lost in a maze of consciousness: a surreal illustration of confusion and discovery, by Kilian Eng.”" width="100%"  class="align-center"  >}}
 
 ### Author/R.Yuuzzor
 
-学生，媒体行业，自由工作者<br>
+除了切身的困惑，还对一点人文、一点设计、一点音乐感兴趣<br>
 <br>
 
 ### Website/关于本站
 
 [《疑难杂志 MazIne》](https://stalwart-semifreddo-41b5da.netlify.app/)是由 R.Yuuzzor 全新构思的媒体计划。
 
-建立自己的博客网站原因有很多，但从最深层的心理因素来看（创作内容的平台明明有很多）：
+建立自己的博客网站原因有很多，但从最深层的心理因素来看：
 
 也许是古早的记忆里，存在着某种对互联网的迷思在作祟；
 
@@ -48,51 +48,7 @@ ShowReadingTime: false
 ——也不想成为一个言之无物的人，在自己与外界之间筑起高墙。
 
 从这个意义上讲，（把自己想象成一座孤岛）「记录」更像是一项为了「打破高墙而筑起桥梁」的工程。<br>
-<br>
 
-#### 谈谈这个博客的价值<br>
-<br>
-
-对于任何信息、内容来说，「乏味」都是最大的敌人。
-
-> 我们日常听到的大多数事物都明确表示了其应归属的门类，于是即可被大脑下意识地归档：绯闻故事进入早已满荷的《男女关系大全》，某位首席执行官的突然下岗插入《工作和地位》，以积累对该主题的理解。
-> 
-> ——阿兰·德波顿(Alain de Botton)，《新闻的骚动》
-
-大脑获取新信息的方式是**联系**：先找到它跟旧信息有什么关联，再进一步追溯旧信息又隶属于哪一个主题的哪一个分支。
-
-阿兰·德波顿在《新闻的骚动》中用这个道理论述了:「新闻机构应该告诉人们如何将割裂的报道融入更宏大的主题之中，而不只是提供某个事实。」「**新闻的乏味正在扼杀新闻的价值。**」
-
-我的困惑毫无疑问最终都会指向人生的各类重大主题，大概率也会跟很多人在意的主题有关。
-
-但如果我不尝试将它们分门别类地放置，很有可能会换来很多有关「乏味」的指摘，自然这些内容也就失去了它们的价值了。
-
-我当然还是希望做出来的内容是有价值的。
-
->如果妳在读这个博客，我会感激。但是毋庸置疑：我是没法知道妳喜欢什么的。人类创造出的产品里，只有那些为了满足自己而作的，才是真正值得读、值得看、值得听的。满足全世界这个目标太大，妳很难射中靶心。
->
->—— Tim Bray（Lawrence Li 译）
-
-为自己而作还有一个前提：**尽量别太乏味**。<br>
-<br>
-
-#### 成为随笔作家<br>
-<br>
-
-不难看出，我现在的写作水平还停留在“拼装”他人的观点，以建立起对某一主题细枝末节的认识。
-
-对于很多主题，我仍然没有更完整、更独到的理解，但通过阿兰·德波顿，我想我应该找到了一个精进的方向：
-
->所谓随笔作家，就是既能抓住人类生存的各种重大主题，又能以如话家常的亲切方式对这些主题进行讨论的作家。
->
->——阿兰·德波顿
-
-
-一直觉得起名多少要有点寓意吧，所以就拿了剧集 *Westworld*  里的重要符号——[Maze](https://westworld.fandom.com/wiki/The_Maze)（迷宫）作为根源。起名时，自觉 “In Maze” 刚好可以用来描述当时的状态，于是，脑海里想着 Magazine，胡乱拼凑之下就有了「MazIne」。明确了博客的内容方向以后，「疑难杂志」这个词也顺理成章地出来了，倒是意外地十分合适。
-
-> The Maze is both a symbol that is seen everywhere in Westworld and throughout the history of the park, and a representation of Arnold's theory of creating consciousness.
-> 
-> ——[Westworld](https://westworld.fandom.com/wiki/Westworld_Wiki) 
 
 ---
 
