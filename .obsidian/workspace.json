@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82c7631bb62226b1",
+        "id": "177a943676076127",
         "type": "tabs",
         "children": [
           {
-            "id": "b76ae93c03e21e49",
+            "id": "87e18cad5974c7e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/essays/20230217.md",
+                "file": "content/posts/博客开篇，随意聊聊.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/essays/20230217.md",
+                "file": "content/posts/博客开篇，随意聊聊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/essays/20230217.md",
+                "file": "content/posts/博客开篇，随意聊聊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/essays/20230217.md"
+                "file": "content/posts/博客开篇，随意聊聊.md"
               }
             }
           },
@@ -163,10 +163,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b76ae93c03e21e49",
+  "active": "87e18cad5974c7e9",
   "lastOpenFiles": [
-    "content/essays/_index.md",
     "content/essays/20230217.md",
+    "content/essays/_index.md",
     "content/posts/博客开篇，随意聊聊.md",
     "content/posts/未命名.md",
     "content/essays/20230215.md",
