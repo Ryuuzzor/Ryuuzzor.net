@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "45265b640be4d321",
+        "id": "82c7631bb62226b1",
         "type": "tabs",
         "children": [
           {
-            "id": "dd3ffcc9196e34a9",
+            "id": "b76ae93c03e21e49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/essays/20230217.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "bf9fd0bd0f6c4b98",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/essays/20230217.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/essays/20230217.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/essays/20230217.md"
+              }
             }
           },
           {
@@ -156,8 +163,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dd3ffcc9196e34a9",
+  "active": "b76ae93c03e21e49",
   "lastOpenFiles": [
+    "content/essays/_index.md",
     "content/essays/20230217.md",
     "content/posts/博客开篇，随意聊聊.md",
     "content/posts/未命名.md",
@@ -166,7 +174,6 @@
     "content/about.md",
     "obsidian template/front matter.md",
     "obsidian template/Daily.md",
-    "content/posts/first.md",
-    "content/essays/_index.md.md"
+    "content/posts/first.md"
   ]
 }
