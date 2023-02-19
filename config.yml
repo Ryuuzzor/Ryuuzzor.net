@@ -23,7 +23,7 @@ params:
     Title: Free your mind and everthing will follow.
     Subtitle: 经验与想象
     Content: "疑难杂志 MazIne, 是由 [Ryuuzzor](https://stalwart-semifreddo-41b5da.netlify.app/about/) 发起的媒体计划，一次初步的尝试。\n\
-              目前，较长的文章会在首页呈现，为了美观，大多数情况都会配一张题图作为封面。相较之下，更为随意、零碎的想法和观点会在 [Daily Nuts](https://stalwart-semifreddo-41b5da.netlify.app/essays/)（点击顶部「坚果」入口）中抒发。"
+    目前，较长的文章会在首页呈现，为了美观，大多数情况都会配一张题图作为封面。相较之下，更为随意、零碎的想法和观点会在 [Daily Nuts](https://stalwart-semifreddo-41b5da.netlify.app/essays/)（点击顶部「坚果」入口）中抒发。"
   socialIcons:
     - name: instagram
       url: https://www.instagram.com/ryuuzzor/
