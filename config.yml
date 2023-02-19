@@ -20,9 +20,8 @@ params:
   defaultTheme: auto
   mainSections: ["posts"]
   homeInfoParams:
-    Title: 见字如晤
+    Title: Imagine and experience. 
     Content: >+
-      <br/>
       疑难杂志 MazIne, 是由 [Ryuuzzor](https://stalwart-semifreddo-41b5da.netlify.app/about/) 发起的媒体计划，一次初步的尝试。<br/>
       <br/>
       这里主要探讨个人的切身的困扰、悬而未决的问题，认真分享一些 Lifehacks 生活小妙招，以及个人认为值得被了解的人、事、物。除此之外，还可能尝试写一些新鲜的、暂时没想好的内容。<br/>
