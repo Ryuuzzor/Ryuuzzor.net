@@ -24,8 +24,9 @@
     font-size: 17px;
     -webkit-line-clamp: 3;
     color: #346d9e;
-    font-weight: 520;
+    font-weight: 511;
     line-height: 2em;
+    font-style: italic;
 }
 
 .first-entry .entry-footer {
