@@ -25,7 +25,7 @@
     -webkit-line-clamp: 3;
     color: #346d9e;
     font-weight: 520;
-    font-style: italic;
+    line-height: 2em;
 }
 
 .first-entry .entry-footer {
