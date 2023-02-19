@@ -21,10 +21,10 @@
 
 .first-entry .entry-content {
     margin: 14px 0;
-    font-size: 17px;
+    font-size: 18px;
     -webkit-line-clamp: 3;
     color: #346d9e;
-    font-weight: 511;
+    font-weight: 507;
     line-height: 2em;
     font-style: italic;
 }

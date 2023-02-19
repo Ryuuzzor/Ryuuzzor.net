@@ -33,10 +33,10 @@ params:
   socialIcons:
     - name: instagram
       url: https://www.instagram.com/ryuuzzor/
-    - name: rss
-      url: https://stalwart-semifreddo-41b5da.netlify.app/index.xml
     - name: email
       url: rongzhouzheng7@gmail.com
+    - name: rss
+      url: https://stalwart-semifreddo-41b5da.netlify.app/index.xml
 
   cover:
     linkFullImages: true
