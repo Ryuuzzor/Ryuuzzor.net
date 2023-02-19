@@ -22,15 +22,7 @@ params:
   homeInfoParams:
     Title: Welcome. 
     Content: >
-    疑难杂志 MazIne, 是由 [Ryuuzzor](https://stalwart-semifreddo-41b5da.netlify.app/about/) 发起的媒体计划，也是一次初步的尝试。
-    
-    >
-    这里主要探讨个人的切身的困扰、悬而未决的问题，认真分享一些 Lifehacks 生活小妙招，以及个人认为值得被了解的人、事、物。除此之外，还可能尝试写一些新鲜的、但暂时没想好的内容。
-    
-    >
-    为了避免陷入某种信息同温层（[filter bubble](https://en.wikipedia.org/wiki/Filter_bubble)），偶尔会邀请一些朋友——如果没有稿费他们也愿意的话——来做一些分享。
-    
-    >
+    疑难杂志 MazIne, 是由 [Ryuuzzor](https://stalwart-semifreddo-41b5da.netlify.app/about/) 发起的媒体计划，一次初步的尝试。这里主要探讨个人的切身的困扰、悬而未决的问题，认真分享一些 Lifehacks 生活小妙招，以及个人认为值得被了解的人、事、物。
     目前，较长的文章会在首页呈现，为了美观，大多数情况都会配一张题图作为封面。相较之下，更为随意、零碎的想法和观点会在 [Daily Nuts](https://stalwart-semifreddo-41b5da.netlify.app/essays/)（点击顶部「坚果」入口）中抒发。
   socialIcons:
     - name: instagram
