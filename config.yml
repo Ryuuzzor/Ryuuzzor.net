@@ -22,7 +22,7 @@ params:
   homeInfoParams:
     Title: Welcome. 
     Content: >
-      I'm **Vincent Young**, operator of [AS206729](https://bgp.he.net/AS206729). I am a computer science student and I am currently preparing my application for graduate school. I am a **BGP** and **Linux** enthusiast, and an open source project contributor. You can get to know me on the [about](https://missuo.me/about) page.
+      疑难杂志 MazIne, 是由 [Ryuuzzor](https://stalwart-semifreddo-41b5da.netlify.app/about/) 发起的媒体计划，一次初步的尝试。
   socialIcons:
     - name: instagram
       url: https://www.instagram.com/ryuuzzor/
