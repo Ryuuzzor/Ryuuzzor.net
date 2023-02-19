@@ -22,8 +22,7 @@ params:
   homeInfoParams:
     Title: Welcome. 
     Content: >
-    疑难杂志 MazIne, 是由 [Ryuuzzor](https://stalwart-semifreddo-41b5da.netlify.app/about/) 发起的媒体计划，一次初步的尝试。这里主要探讨个人的切身的困扰、悬而未决的问题，认真分享一些 Lifehacks 生活小妙招，以及个人认为值得被了解的人、事、物。
-    目前，较长的文章会在首页呈现，为了美观，大多数情况都会配一张题图作为封面。相较之下，更为随意、零碎的想法和观点会在 [Daily Nuts](https://stalwart-semifreddo-41b5da.netlify.app/essays/)（点击顶部「坚果」入口）中抒发。
+      I'm **Vincent Young**, operator of [AS206729](https://bgp.he.net/AS206729). I am a computer science student and I am currently preparing my application for graduate school. I am a **BGP** and **Linux** enthusiast, and an open source project contributor. You can get to know me on the [about](https://missuo.me/about) page.
   socialIcons:
     - name: instagram
       url: https://www.instagram.com/ryuuzzor/
