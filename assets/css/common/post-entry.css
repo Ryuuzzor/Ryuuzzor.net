@@ -8,7 +8,7 @@
 }
 
 .first-entry .entry-header {
-    overflow: hidden;
+    overflow: visible;
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 3;
