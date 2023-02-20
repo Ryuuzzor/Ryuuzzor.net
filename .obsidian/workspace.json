@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f48854f899ca1f75",
+        "id": "ca83fa01ee43b24e",
         "type": "tabs",
         "children": [
           {
-            "id": "c3348002280e9cdd",
+            "id": "ec89ad33debf2e30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/博客开篇，随意聊聊.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/博客开篇，随意聊聊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/博客开篇，随意聊聊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/博客开篇，随意聊聊.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c3348002280e9cdd",
+  "active": "ec89ad33debf2e30",
   "lastOpenFiles": [
     "content/posts/博客开篇，随意聊聊.md",
     "content/essays/20230217.md",
