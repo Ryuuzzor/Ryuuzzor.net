@@ -11,8 +11,12 @@
             "id": "ec89ad33debf2e30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/essays/20230221.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/essays/20230221.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/essays/20230221.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/essays/20230221.md"
+              }
             }
           },
           {
@@ -157,15 +165,15 @@
   },
   "active": "ec89ad33debf2e30",
   "lastOpenFiles": [
-    "content/posts/博客开篇，随意聊聊.md",
     "content/essays/20230217.md",
-    "content/essays/_index.md",
+    "content/about.md",
+    "content/essays/20230221.md",
     "content/posts/未命名.md",
+    "content/posts/博客开篇，随意聊聊.md",
+    "content/essays/_index.md",
     "content/essays/20230215.md",
     "content/posts/像清理后台一样写作.md",
-    "content/about.md",
     "obsidian template/front matter.md",
-    "obsidian template/Daily.md",
-    "content/posts/first.md"
+    "obsidian template/Daily.md"
   ]
 }
