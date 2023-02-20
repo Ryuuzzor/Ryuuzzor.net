@@ -17,7 +17,7 @@ ShowReadingTime: false
 
 ### Website/关于本站
 
-[《疑难杂志 MazIne》](https://stalwart-semifreddo-41b5da.netlify.app/)是由 R.Yuuzzor 全新构思的媒体计划。
+[《疑难杂志 MazIne》](https://mazine.netlify.app)是由 R.Yuuzzor 全新构思的媒体计划。
 
 建立自己的博客网站原因有很多，但从最深层的心理因素来看：也许是古早的记忆里，存在着某种对互联网的迷思在作祟；也许就是想“标旧立异”而已。<br>
 <br>
