@@ -12,7 +12,7 @@ ShowReadingTime: false
 
 ### Author/R.Yuuzzor
 
-除了切身的困惑，还对一点人文、一点设计、一点音乐感兴趣<br>
+除了切身的困惑外，还对一点人文、一点设计、一点音乐感兴趣<br>
 <br>
 
 ### Website/关于本站
