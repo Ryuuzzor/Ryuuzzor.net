@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff38ddb7839ff88f",
+        "id": "f97bed18281d047c",
         "type": "tabs",
         "children": [
           {
-            "id": "b8b996e2e1ab96c0",
+            "id": "221f9eaa08c7a557",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/essays/20230217.md",
+                "file": "content/essays/20230222.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/essays/20230217.md",
+                "file": "content/essays/20230222.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/essays/20230217.md",
+                "file": "content/essays/20230222.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/essays/20230217.md"
+                "file": "content/essays/20230222.md"
               }
             }
           },
@@ -163,11 +163,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b8b996e2e1ab96c0",
+  "active": "221f9eaa08c7a557",
   "lastOpenFiles": [
-    "content/essays/20230222.md",
     "content/essays/20230221.md",
     "content/essays/20230217.md",
+    "content/essays/20230222.md",
     "content/posts/博客开篇，随意聊聊.md",
     "obsidian template/Daily.md",
     "obsidian template/front matter.md",
