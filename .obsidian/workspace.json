@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "bf9fd0bd0f6c4b98",
@@ -167,8 +166,8 @@
   "active": "221f9eaa08c7a557",
   "lastOpenFiles": [
     "content/essays/20230221.md",
-    "content/essays/20230222.md",
     "content/essays/20230217.md",
+    "content/essays/20230222.md",
     "content/posts/博客开篇，随意聊聊.md",
     "obsidian template/Daily.md",
     "obsidian template/front matter.md",
