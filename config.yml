@@ -13,7 +13,7 @@ minify:
   minifyOutput: true
 
 permalinks: # 访问博客时网址的显示形式
-  post: "/:year/:month/:title/"
+  post: "/:slug/"
 
 params:
   env: production
