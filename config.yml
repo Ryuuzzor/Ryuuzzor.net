@@ -28,6 +28,8 @@ params:
       目前，长文会在首页呈现 ，为了美观，多数情况都会配一张题图作为封面。相较之下，更为随意、零碎的想法和观点则会在 [Daily Nuts](https://mazine.netlify.app/essays/)（点击顶部「坚果」入口）中记录。<br/>
       <br/>
   socialIcons:
+    - name: telegram
+      url: https://t.me/mazinestalk
     - name: instagram
       url: https://www.instagram.com/ryuuzzor/
     - name: email
