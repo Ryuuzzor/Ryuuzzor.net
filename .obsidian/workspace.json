@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f4e18d848ffab855",
+        "id": "f4b0675ca623e322",
         "type": "tabs",
         "children": [
           {
-            "id": "6c529184a0ce5dee",
+            "id": "2744490e7dddb2db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/李海鹏.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/李海鹏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/李海鹏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/李海鹏.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,10 +155,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6c529184a0ce5dee",
+  "active": "2744490e7dddb2db",
   "lastOpenFiles": [
-    "content/posts/推翻巴别塔？——翻译工具推荐，也谈谈翻译.md",
     "content/posts/李海鹏.md",
+    "content/posts/推翻巴别塔？——翻译工具推荐，也谈谈翻译.md",
     "content/posts/博客开篇，随意聊聊.md",
     "static/E02/ProPublica.png",
     "content/posts/像清理后台一样写作.md",
