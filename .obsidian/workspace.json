@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4b0675ca623e322",
+        "id": "3152f98a3f0af994",
         "type": "tabs",
         "children": [
           {
-            "id": "2744490e7dddb2db",
+            "id": "8dfe1e7d9785b1b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,7 +163,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2744490e7dddb2db",
+  "active": "8dfe1e7d9785b1b2",
   "lastOpenFiles": [
     "content/posts/李海鹏.md",
     "content/posts/推翻巴别塔？——翻译工具推荐，也谈谈翻译.md",
