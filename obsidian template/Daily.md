@@ -1,6 +1,6 @@
 ---
 title: {{title}}
-date: {{date}}-{{time}}
+date: {{date}}
 tags: [""]
 draft: false
 ---
