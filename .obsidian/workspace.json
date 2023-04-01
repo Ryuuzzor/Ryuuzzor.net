@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6bc7e8e768e48480",
+        "id": "4d33aa63207e3f55",
         "type": "tabs",
         "children": [
           {
-            "id": "9b42763e750bd915",
+            "id": "c0b8ca1719ffe3de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/猪一般分不清好赖.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/猪一般分不清好赖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/猪一般分不清好赖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/猪一般分不清好赖.md"
+              }
             }
           },
           {
@@ -155,9 +163,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9b42763e750bd915",
+  "active": "c0b8ca1719ffe3de",
   "lastOpenFiles": [
+    "static/E03/ zhu.png",
+    "static/E03/ zhu.jpg",
+    "static/E03/432831680017309_.pic.jpg",
+    "static/E03",
+    "static/未命名文件夹",
     "content/posts/李海鹏.md",
+    "content/posts/猪一般分不清好赖.md",
     "content/posts/博客开篇，随意聊聊.md",
     "content/posts/像清理后台一样写作.md",
     "content/posts/推翻巴别塔？——翻译工具推荐，也谈谈翻译.md",
