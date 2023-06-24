@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4d33aa63207e3f55",
+        "id": "48d9582bb6a19662",
         "type": "tabs",
         "children": [
           {
-            "id": "c0b8ca1719ffe3de",
+            "id": "417b87f09ef7dd25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/猪一般分不清好赖.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -72,6 +68,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "be8773e29b1a98a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -93,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/猪一般分不清好赖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/猪一般分不清好赖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/猪一般分不清好赖.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,15 +163,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c0b8ca1719ffe3de",
+  "active": "417b87f09ef7dd25",
   "lastOpenFiles": [
+    "content/posts/我的朋友樱木.md",
+    "content/posts/猪一般分不清好赖.md",
+    "static/E04/yingmu.jpeg",
+    "static/E04/yingmu.JPEG",
+    "static/E04/c56cdca0c6de0de2ea0a9a229a7c50a4.JPEG",
+    "static/E04",
+    "static/untitled folder",
     "static/E03/ zhu.png",
     "static/E03/ zhu.jpg",
     "static/E03/432831680017309_.pic.jpg",
     "static/E03",
     "static/未命名文件夹",
     "content/posts/李海鹏.md",
-    "content/posts/猪一般分不清好赖.md",
     "content/posts/博客开篇，随意聊聊.md",
     "content/posts/像清理后台一样写作.md",
     "content/posts/推翻巴别塔？——翻译工具推荐，也谈谈翻译.md",
