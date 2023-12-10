@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/essays/20230217.md",
+                "file": "content/posts/Uwoaini.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/essays/20230217.md",
+                "file": "content/posts/Uwoaini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/essays/20230217.md",
+                "file": "content/posts/Uwoaini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/essays/20230217.md"
+                "file": "content/posts/Uwoaini.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "484d13de53ce590d",
   "lastOpenFiles": [
-    "content/essays/_index.md",
     "content/essays/20230217.md",
+    "content/essays/_index.md",
     "content/essays/20230222.md",
     "content/essays/20230221.md",
     "content/posts/Uwoaini.md",
