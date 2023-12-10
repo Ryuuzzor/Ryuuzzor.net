@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "79e0eaec80060d75",
+        "id": "ed97c5424485e124",
         "type": "tabs",
         "children": [
           {
-            "id": "849eec381d3e2c65",
+            "id": "484d13de53ce590d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/Uwoaini.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -54,14 +58,6 @@
             }
           },
           {
-            "id": "e1d7bc148e64e24a",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "9f14d8ab62a425e0",
             "type": "leaf",
             "state": {
@@ -81,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 268.5
   },
   "right": {
     "id": "bf9fd0bd0f6c4b98",
@@ -97,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/Uwoaini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/Uwoaini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/Uwoaini.md"
+              }
             }
           },
           {
@@ -163,11 +163,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "849eec381d3e2c65",
+  "active": "484d13de53ce590d",
   "lastOpenFiles": [
-    "content/posts/猪一般分不清好赖.md",
+    "static/E05/liancang.pic.jpg",
+    "static/E05/604171702194745_.pic.jpg",
     "content/posts/我的朋友樱木.md",
+    "content/posts/Uwoaini.md",
+    "content/posts/与神对话.md",
+    "static/E05/liancang.jpg",
+    "static/E05",
+    "static/未命名文件夹",
+    "content/posts/猪一般分不清好赖.md",
+    "obsidian template/front matter.md",
+    "obsidian template/Daily.md",
+    "content/posts/RSS.md",
+    "content/essays/20230221.md",
+    "content/essays/20230217.md",
+    "content/essays/_index.md",
+    "content/essays/20230222.md",
+    "content/posts/在互联网上做自己.md",
+    "content/posts/推翻巴别塔？——翻译工具推荐，也谈谈翻译.md",
     "content/posts/李海鹏.md",
+    "content/essays/20230624.md",
     "static/E04/yingmu.jpeg",
     "static/E04/yingmu.JPEG",
     "static/E04/c56cdca0c6de0de2ea0a9a229a7c50a4.JPEG",
@@ -177,24 +194,13 @@
     "static/E03/ zhu.jpg",
     "static/E03/432831680017309_.pic.jpg",
     "static/E03",
-    "static/未命名文件夹",
     "content/posts/博客开篇，随意聊聊.md",
     "content/posts/像清理后台一样写作.md",
-    "content/posts/推翻巴别塔？——翻译工具推荐，也谈谈翻译.md",
-    "content/posts/在互联网上做自己.md",
     "static/E02/ProPublica.png",
     "static/E02/ProPublica.PNG",
-    "static/E02/IMG_5966.PNG",
     "static/E02",
-    "content/posts/RSS.md",
     "content/essays/20230225.md",
-    "obsidian template/Daily.md",
-    "content/essays/20230222.md",
-    "content/essays/20230221.md",
-    "content/essays/20230217.md",
-    "obsidian template/front matter.md",
     "content/about.md",
-    "content/essays/_index.md",
     "content/essays/20230215.md"
   ]
 }
