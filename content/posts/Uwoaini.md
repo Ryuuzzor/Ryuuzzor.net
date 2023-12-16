@@ -3,12 +3,9 @@ title: Uwoaini
 date: 2023-12-10
 draft: false
 lastmod: 
-author:
-  - ""
-  - 郭亨正
+author: ["郭亨正"]
 tags: 
-categories:
-  - ""
+categories: ""
 description: ""
 weight: 
 showToc: false

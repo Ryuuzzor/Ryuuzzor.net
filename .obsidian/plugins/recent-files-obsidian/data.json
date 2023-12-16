@@ -5,8 +5,24 @@
       "path": "content/posts/Uwoaini.md"
     },
     {
+      "basename": "front matter",
+      "path": "obsidian template/front matter.md"
+    },
+    {
       "basename": "李海鹏",
       "path": "content/posts/李海鹏.md"
+    },
+    {
+      "basename": "我的朋友樱木",
+      "path": "content/posts/我的朋友樱木.md"
+    },
+    {
+      "basename": "与神对话",
+      "path": "content/posts/与神对话.md"
+    },
+    {
+      "basename": "猪一般分不清好赖",
+      "path": "content/posts/猪一般分不清好赖.md"
     },
     {
       "basename": "博客开篇，随意聊聊",
@@ -27,22 +43,6 @@
     {
       "basename": "20230221",
       "path": "content/essays/20230221.md"
-    },
-    {
-      "basename": "我的朋友樱木",
-      "path": "content/posts/我的朋友樱木.md"
-    },
-    {
-      "basename": "与神对话",
-      "path": "content/posts/与神对话.md"
-    },
-    {
-      "basename": "猪一般分不清好赖",
-      "path": "content/posts/猪一般分不清好赖.md"
-    },
-    {
-      "basename": "front matter",
-      "path": "obsidian template/front matter.md"
     },
     {
       "basename": "Daily",
