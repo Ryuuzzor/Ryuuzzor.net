@@ -11,8 +11,12 @@
             "id": "691fa84bd4986cbd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/在 2024 开始前.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/在 2024 开始前.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/在 2024 开始前.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/在 2024 开始前.md"
+              }
             }
           },
           {
@@ -158,8 +166,9 @@
   "active": "691fa84bd4986cbd",
   "lastOpenFiles": [
     "content/posts/在 2024 开始前.md",
-    "content/posts/博客开篇，随意聊聊.md",
+    "content/posts/在 2024 开始前.md",
     "content/posts/仍在真相的中途.md",
+    "content/posts/博客开篇，随意聊聊.md",
     "static/E07/shu.pic.jpg",
     "static/E07/shu.jpg",
     "static/E07/shu 2.jpg",
