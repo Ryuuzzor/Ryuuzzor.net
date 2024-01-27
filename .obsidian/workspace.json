@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2470fa7917ab2e4",
+        "id": "505586083b604044",
         "type": "tabs",
         "children": [
           {
-            "id": "691fa84bd4986cbd",
+            "id": "fbf71aedc70313a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,11 +163,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "691fa84bd4986cbd",
+  "active": "fbf71aedc70313a1",
   "lastOpenFiles": [
-    "content/posts/在 2024 开始前.md",
-    "content/posts/在 2024 开始前.md",
+    "content/posts/Uwoaini.md",
     "content/posts/仍在真相的中途.md",
+    "content/posts/在 2024 开始前.md",
+    "content/posts/与神对话.md",
+    "content/posts/我的朋友樱木.md",
+    "content/posts/猪一般分不清好赖.md",
+    "content/essays/_index.md",
+    "content/essays/20230217.md",
+    "content/essays/20230221.md",
+    "content/essays/20230222.md",
     "content/posts/博客开篇，随意聊聊.md",
     "static/E07/shu.pic.jpg",
     "static/E07/shu.jpg",
@@ -177,20 +184,12 @@
     "static/E07/WechatIMG62432.jpg",
     "static/E07",
     "static/未命名文件夹",
-    "content/posts/与神对话.md",
-    "content/posts/Uwoaini.md",
-    "content/posts/我的朋友樱木.md",
     "static/E06/xiumo.jpg",
     "static/E06/607811702742750_.pic.jpg",
     "static/E06/xiumo.pic.jpg",
     "static/E06/liancang.pic.jpg",
     "obsidian template/front matter.md",
     "content/posts/李海鹏.md",
-    "content/posts/猪一般分不清好赖.md",
-    "content/essays/20230217.md",
-    "content/essays/_index.md",
-    "content/essays/20230222.md",
-    "content/essays/20230221.md",
     "static/E05",
     "obsidian template/Daily.md",
     "content/posts/RSS.md",
